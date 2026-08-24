@@ -1,139 +1,727 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Landing Page | GitHub Pages</title>
-
+  <title>Mimu's Labs — Android apps from a small studio</title>
+  <meta name="description" content="Mimu's Labs is an independent Android studio in Bandung. Browse the apps, see what they do, and install them on Google Play." />
+  <meta property="og:title" content="Mimu's Labs" />
+  <meta property="og:description" content="Independent Android apps you can browse, inspect, and install from Google Play." />
+  <meta property="og:type" content="website" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650;9..144,720&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --primary: #2563eb;
-      --dark: #0f172a;
-      --gray: #64748b;
-      --bg: #f8fafc;
+      --paper: #f6f0e6;
+      --paper-deep: #eadfcf;
+      --ink: #1a1410;
+      --ink-soft: #3c322a;
+      --muted: #7a6f64;
+      --line: rgba(26, 20, 16, 0.12);
+      --white: #fffaf3;
+      --orange: #e56b1f;
+      --orange-deep: #c45212;
+      --green: #2f6b55;
+      --shadow: 0 24px 60px rgba(26, 20, 16, 0.16);
+      --radius: 28px;
     }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
 
     body {
-      background: var(--bg);
-      color: var(--dark);
-      line-height: 1.6;
+      font-family: Outfit, system-ui, sans-serif;
+      background: var(--paper);
+      color: var(--ink);
+      line-height: 1.55;
+      min-height: 100vh;
+      overflow-x: hidden;
     }
 
-    header {
-      background: linear-gradient(135deg, var(--primary), #1e40af);
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      opacity: 0.35;
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='140'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)' opacity='0.45'/></svg>");
+      z-index: 0;
+    }
+
+    a { color: inherit; }
+
+    img { max-width: 100%; display: block; }
+
+    .skip {
+      position: absolute;
+      left: -999px;
+      top: 8px;
+      background: var(--ink);
+      color: var(--white);
+      padding: 8px 12px;
+      z-index: 100;
+    }
+    .skip:focus { left: 8px; }
+
+    .wrap {
+      width: min(1120px, calc(100% - 40px));
+      margin: 0 auto;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      backdrop-filter: blur(16px);
+      background: rgba(246, 240, 230, 0.82);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 0;
+      gap: 16px;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      font-weight: 650;
+      letter-spacing: -0.03em;
+    }
+
+    .mark {
+      width: 34px;
+      height: 34px;
+      border-radius: 10px;
+      background: var(--ink);
+      color: #f3e6c8;
+      display: grid;
+      place-items: center;
+      font-family: Fraunces, serif;
+      font-weight: 720;
+      font-size: 1.05rem;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 22px;
+      list-style: none;
+      font-size: 0.95rem;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      color: var(--ink-soft);
+    }
+
+    .nav-links a:hover { color: var(--ink); }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      border: 0;
+      cursor: pointer;
+      text-decoration: none;
+      font: inherit;
+      font-weight: 600;
+      border-radius: 999px;
+      padding: 12px 20px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+    }
+
+    .btn:hover { transform: translateY(-1px); }
+
+    .btn-ink {
+      background: var(--ink);
+      color: var(--white);
+      box-shadow: 0 10px 24px rgba(26, 20, 16, 0.18);
+    }
+
+    .btn-ghost {
+      background: transparent;
+      color: var(--ink);
+      border: 1px solid var(--line);
+    }
+
+    .btn-play {
+      background: #01875f;
       color: white;
-      padding: 80px 20px;
-      text-align: center;
     }
 
-    header h1 {
-      font-size: 2.5rem;
+    .btn-play:hover { background: #046c4c; }
+
+    header.hero {
+      position: relative;
+      z-index: 1;
+      padding: 72px 0 40px;
+      display: grid;
+      grid-template-columns: 1.05fr 0.95fr;
+      gap: 48px;
+      align-items: center;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.78rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 600;
+      margin-bottom: 18px;
+    }
+
+    .eyebrow::before {
+      content: "";
+      width: 18px;
+      height: 1px;
+      background: var(--orange);
+    }
+
+    h1 {
+      font-family: Fraunces, serif;
+      font-size: clamp(3rem, 7vw, 6rem);
+      line-height: 0.92;
+      letter-spacing: -0.045em;
+      font-weight: 650;
+      margin-bottom: 20px;
+    }
+
+    .lede {
+      font-size: 1.15rem;
+      color: var(--ink-soft);
+      max-width: 34ch;
+      margin-bottom: 32px;
+    }
+
+    .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+
+    .stage {
+      position: relative;
+      min-height: 520px;
+    }
+
+    .phone {
+      position: absolute;
+      width: 230px;
+      aspect-ratio: 9 / 19.2;
+      border-radius: 34px;
+      background: #111;
+      padding: 10px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .phone img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 24px;
+    }
+
+    .phone-a { right: 90px; top: 10px; transform: rotate(-8deg); }
+    .phone-b { right: 0; top: 70px; transform: rotate(7deg); z-index: 2; }
+    .phone-c {
+      right: 150px;
+      bottom: 20px;
+      width: 150px;
+      opacity: 0.9;
+      transform: rotate(-14deg);
+      z-index: 0;
+    }
+
+    .glow {
+      position: absolute;
+      right: 40px;
+      top: 80px;
+      width: 280px;
+      height: 280px;
+      background: radial-gradient(circle, rgba(229, 107, 31, 0.28), transparent 68%);
+      filter: blur(8px);
+    }
+
+    section { position: relative; z-index: 1; padding: 72px 0; }
+
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 24px;
+      margin-bottom: 32px;
+    }
+
+    h2 {
+      font-family: Fraunces, serif;
+      font-size: clamp(2rem, 4vw, 3.1rem);
+      letter-spacing: -0.04em;
+      line-height: 1.05;
+    }
+
+    .section-note { color: var(--muted); max-width: 36ch; }
+
+    .app-grid {
+      display: grid;
+      gap: 22px;
+    }
+
+    .app-card {
+      background: var(--white);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      overflow: hidden;
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      min-height: 340px;
+    }
+
+    .app-card.lab {
+      grid-template-columns: 1fr;
+      padding: 32px;
+      background:
+        linear-gradient(180deg, rgba(47, 107, 85, 0.08), transparent 40%),
+        var(--white);
+    }
+
+    .app-visual {
+      background: linear-gradient(180deg, #f4b07a, #fff4e8);
+      display: grid;
+      place-items: end center;
+      padding: 24px 16px 0;
+    }
+
+    .app-visual .phone {
+      position: relative;
+      right: auto;
+      top: auto;
+      width: 170px;
+      transform: none;
+      margin-bottom: -28px;
+    }
+
+    .app-body { padding: 32px 32px 28px; display: flex; flex-direction: column; }
+
+    .chips { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+
+    .chip {
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      border-radius: 999px;
+      padding: 5px 10px;
+      background: var(--paper-deep);
+      color: var(--ink-soft);
+    }
+
+    .chip.live { background: #e7f6ee; color: #176b45; }
+    .chip.soon { background: #efe7d4; color: #6a4b16; }
+
+    .app-body h3 {
+      font-family: Fraunces, serif;
+      font-size: 2rem;
+      letter-spacing: -0.03em;
+      margin-bottom: 8px;
+    }
+
+    .app-body p { color: var(--ink-soft); max-width: 52ch; }
+
+    .feature-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 18px 0 24px;
+    }
+
+    .feature-row span {
+      font-size: 0.88rem;
+      padding: 7px 11px;
+      border-radius: 12px;
+      background: var(--paper);
+      color: var(--ink-soft);
+    }
+
+    .app-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: auto; }
+
+    .icon-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
       margin-bottom: 16px;
     }
 
-    header p {
-      font-size: 1.1rem;
-      max-width: 600px;
-      margin: 0 auto 32px;
-      opacity: 0.95;
-    }
-
-    .btn {
-      display: inline-block;
-      background: white;
-      color: var(--primary);
-      padding: 12px 28px;
-      border-radius: 999px;
-      text-decoration: none;
-      font-weight: 600;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-    }
-
-    .btn:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 10px 20px rgba(0,0,0,0.15);
-    }
-
-    section {
-      padding: 80px 20px;
-      max-width: 1100px;
-      margin: auto;
-    }
-
-    .features {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 24px;
-    }
-
-    .card {
-      background: white;
-      padding: 28px;
+    .app-icon {
+      width: 64px;
+      height: 64px;
       border-radius: 16px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+      box-shadow: 0 8px 18px rgba(26, 20, 16, 0.12);
     }
 
-    .card h3 {
-      margin-bottom: 12px;
+    .about {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 40px;
+      background: var(--ink);
+      color: #f3ece2;
+      border-radius: 36px;
+      padding: 48px;
     }
 
-    .card p {
-      color: var(--gray);
-    }
+    .about h2 { color: #fffaf3; }
+
+    .about p { color: #d7cdc1; }
+
+    .about a { color: #f0b27a; }
 
     footer {
-      text-align: center;
-      padding: 40px 20px;
-      color: var(--gray);
-      font-size: 0.9rem;
+      position: relative;
+      z-index: 1;
+      padding: 28px 0 48px;
+      color: var(--muted);
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+      font-size: 0.92rem;
     }
 
-    footer a {
-      color: var(--primary);
-      text-decoration: none;
+    footer a { color: var(--ink-soft); }
+
+    .overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(18, 13, 10, 0.55);
+      z-index: 40;
+      display: none;
+      align-items: stretch;
+      justify-content: flex-end;
+    }
+
+    .overlay.open { display: flex; }
+
+    .sheet {
+      width: min(720px, 100%);
+      background: var(--paper);
+      height: 100%;
+      overflow: auto;
+      padding: 28px 28px 56px;
+      box-shadow: -20px 0 60px rgba(0,0,0,0.2);
+    }
+
+    .sheet-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 22px;
+    }
+
+    .close {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      border: 1px solid var(--line);
+      background: var(--white);
+      cursor: pointer;
+      font-size: 1.2rem;
+    }
+
+    .shots {
+      display: flex;
+      gap: 14px;
+      overflow-x: auto;
+      padding: 8px 4px 24px;
+      scroll-snap-type: x mandatory;
+    }
+
+    .shots img {
+      height: 420px;
+      width: auto;
+      border-radius: 24px;
+      scroll-snap-align: start;
+      box-shadow: 0 16px 32px rgba(26, 20, 16, 0.16);
+      background: #111;
+    }
+
+    .sheet h2 { margin: 8px 0 10px; }
+
+    .sheet .lede { max-width: none; }
+
+    .detail-features {
+      display: grid;
+      gap: 12px;
+      margin: 24px 0 28px;
+    }
+
+    .detail-features li {
+      list-style: none;
+      background: var(--white);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 14px 16px;
+    }
+
+    .detail-features strong { display: block; margin-bottom: 4px; }
+
+    @media (max-width: 860px) {
+      header.hero, .app-card, .about, .section-head {
+        grid-template-columns: 1fr;
+      }
+      .stage { min-height: 430px; margin: 10px auto 0; width: 100%; }
+      .phone-a, .phone-c { display: none; }
+      .phone-b { right: 50%; transform: translateX(50%) rotate(0deg); }
+      .app-visual { min-height: 280px; }
+      section { padding: 48px 0; }
+      .about { padding: 28px; border-radius: 24px; }
+      .nav-links { gap: 12px; }
+      .nav-links .hide-sm { display: none; }
+      .nav-links .btn { padding: 10px 14px; font-size: 0.85rem; }
+      .shots img { height: 340px; }
+      .sheet { padding: 20px 16px 48px; }
     }
   </style>
 </head>
 <body>
+  <a class="skip" href="#apps">Skip to apps</a>
 
-  <header>
-    <h1>Selamat Datang 🚀</h1>
-    <p>
-      Ini adalah landing page sederhana untuk GitHub Pages.
-      Cocok untuk portfolio, project open-source, atau dokumentasi.
-    </p>
-    <a href="https://github.com/username" class="btn">Lihat GitHub</a>
-  </header>
-
-  <section>
-    <h2 style="text-align:center; margin-bottom:48px;">Fitur Utama</h2>
-    <div class="features">
-      <div class="card">
-        <h3>⚡ Cepat & Ringan</h3>
-        <p>Tanpa framework, hanya HTML & CSS. Loading super cepat.</p>
-      </div>
-      <div class="card">
-        <h3>📱 Responsif</h3>
-        <p>Tampilan optimal di desktop, tablet, dan mobile.</p>
-      </div>
-      <div class="card">
-        <h3>🌐 GitHub Pages Ready</h3>
-        <p>Tinggal upload ke repository dan langsung online.</p>
-      </div>
+  <nav>
+    <div class="wrap nav-inner">
+      <a class="logo" href="#top">
+        <span class="mark">M</span>
+        Mimu's Labs
+      </a>
+      <ul class="nav-links">
+        <li><a href="#apps">Apps</a></li>
+        <li class="hide-sm"><a href="#about">About</a></li>
+        <li><a href="privacy-policy.html">Privacy</a></li>
+        <li>
+          <a class="btn btn-ink" href="https://play.google.com/store/apps/developer?id=Mimu%27s+Labs" target="_blank" rel="noopener">Google Play</a>
+        </li>
+      </ul>
     </div>
-  </section>
+  </nav>
 
-  <footer>
-    © 2026 • Dibuat dengan ❤️ •
-    <a href="https://github.com/MimusLabs">GitHub</a>
-  </footer>
+  <div class="wrap" id="top">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Independent Android studio · Bandung</p>
+        <h1>Mimu's Labs</h1>
+        <p class="lede">
+          A small lab for learning apps. Browse the catalog, open any app for details,
+          then install it on Google Play.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-ink" href="#apps">See the apps</a>
+          <a class="btn btn-ghost" href="https://play.google.com/store/apps/developer?id=Mimu%27s+Labs" target="_blank" rel="noopener">Developer page</a>
+        </div>
+      </div>
+      <div class="stage" aria-hidden="true">
+        <div class="glow"></div>
+        <div class="phone phone-c"><img src="assets/ss3.png" alt="" /></div>
+        <div class="phone phone-a"><img src="assets/ss2.png" alt="" /></div>
+        <div class="phone phone-b"><img src="assets/ss1.png" alt="" /></div>
+      </div>
+    </header>
 
+    <section id="apps">
+      <div class="section-head">
+        <h2>App showcase</h2>
+        <p class="section-note">Tap an app to read what it does, then jump straight to Google Play to install it.</p>
+      </div>
+      <div class="app-grid" id="app-grid"></div>
+    </section>
+
+    <section id="about">
+      <div class="about">
+        <div>
+          <p class="eyebrow" style="color:#c9b8a4">The studio</p>
+          <h2>Built quietly, shipped on Play.</h2>
+        </div>
+        <div>
+          <p>
+            Mimu's Labs is the personal studio of Miftah — Android apps made in Bandung, Indonesia.
+            The work leans toward learning: Japanese writing with <strong>Nihon Alphabet</strong>,
+            and more experiments still in the lab.
+          </p>
+          <p style="margin-top:16px">
+            Questions or Play listing updates:
+            <a href="mailto:mimuslabs@gmail.com">mimuslabs@gmail.com</a>
+            ·
+            <a href="https://github.com/MimusLabs" target="_blank" rel="noopener">GitHub</a>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <span>© 2026 Mimu's Labs. All rights reserved.</span>
+      <span>
+        <a href="privacy-policy.html">Privacy &amp; Terms</a>
+        ·
+        <a href="https://play.google.com/store/apps/developer?id=Mimu%27s+Labs" target="_blank" rel="noopener">Google Play</a>
+      </span>
+    </footer>
+  </div>
+
+  <div class="overlay" id="overlay" aria-hidden="true">
+    <aside class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" id="sheet"></aside>
+  </div>
+
+  <script>
+    const APPS = [
+      {
+        id: "nihon-alphabet",
+        name: "Nihon Alphabet",
+        status: "live",
+        category: "Education",
+        tagline: "Hiragana, Katakana, and Kanji — from first stroke to first story.",
+        summary: "A beginner-friendly way to learn the Japanese writing system: alphabets, kanji, vocab, quizzes, and short stories.",
+        icon: "assets/nihon-icon.png",
+        screenshots: [
+          "assets/ss1.png",
+          "assets/ss2.png",
+          "assets/ss3.png",
+          "assets/ss4.png",
+          "assets/ss5.png",
+          "assets/ss6.png"
+        ],
+        playUrl: "https://play.google.com/store/apps/details?id=com.mimuslabs.japanesealphabet",
+        features: ["Hiragana & Katakana", "Beginner Kanji", "Writing practice", "Stories & vocab"],
+        details: [
+          { title: "Learn Hiragana & Katakana", text: "Complete phonetic alphabets with clear readings, examples, and pronunciation support." },
+          { title: "Kanji for beginners", text: "Essential characters with meanings and readings so real Japanese text starts to make sense." },
+          { title: "Practice that sticks", text: "Writing, exercises, vocabulary, and short stories — structured so you can learn in small sessions." }
+        ],
+        description: "Nihon Alphabet helps you master the basics of Japanese writing, step by step. Built for beginners, JLPT N5 starters, and anyone learning for anime, travel, or self-study."
+      },
+      {
+        id: "quran-lab",
+        name: "Qur'an companion",
+        status: "lab",
+        category: "In the lab",
+        tagline: "A memorization companion is on the bench.",
+        summary: "The next experiment: a Qur'an hafalan companion with surah tracking and study tips. Not on Google Play yet.",
+        features: ["Surah list", "Memorization tracking", "Study tips"],
+        details: [
+          { title: "Still in the lab", text: "This app is being built and is not published on Google Play yet. Check back here, or follow the developer page for the release." }
+        ],
+        description: "An upcoming Mimu's Labs project for Qur'an memorization. When it ships, this card will open a full listing with a Play Store install button."
+      }
+    ];
+
+    const grid = document.getElementById("app-grid");
+    const overlay = document.getElementById("overlay");
+    const sheet = document.getElementById("sheet");
+
+    function playButton(url, label) {
+      if (!url) return `<span class="btn btn-ghost" aria-disabled="true">Coming to Play</span>`;
+      return `<a class="btn btn-play" href="${url}" target="_blank" rel="noopener">${label || "Get it on Google Play"}</a>`;
+    }
+
+    function renderCards() {
+      grid.innerHTML = APPS.map((app) => {
+        if (app.status === "lab") {
+          return `
+            <article class="app-card lab">
+              <div class="chips">
+                <span class="chip soon">In the lab</span>
+                <span class="chip">${app.category}</span>
+              </div>
+              <h3>${app.name}</h3>
+              <p>${app.summary}</p>
+              <div class="feature-row">${app.features.map((f) => `<span>${f}</span>`).join("")}</div>
+              <div class="app-actions">
+                <button class="btn btn-ink" data-open="${app.id}">View details</button>
+                ${playButton(app.playUrl)}
+              </div>
+            </article>`;
+        }
+        return `
+          <article class="app-card">
+            <div class="app-visual">
+              <div class="phone"><img src="${app.screenshots[0]}" alt="${app.name} screenshot" /></div>
+            </div>
+            <div class="app-body">
+              <div class="icon-row">
+                <img class="app-icon" src="${app.icon}" alt="" />
+                <div class="chips">
+                  <span class="chip live">On Google Play</span>
+                  <span class="chip">${app.category}</span>
+                </div>
+              </div>
+              <h3>${app.name}</h3>
+              <p>${app.summary}</p>
+              <div class="feature-row">${app.features.map((f) => `<span>${f}</span>`).join("")}</div>
+              <div class="app-actions">
+                <button class="btn btn-ink" data-open="${app.id}">View details</button>
+                ${playButton(app.playUrl)}
+              </div>
+            </div>
+          </article>`;
+      }).join("");
+    }
+
+    function openApp(id) {
+      const app = APPS.find((a) => a.id === id);
+      if (!app) return;
+      const shots = (app.screenshots || [])
+        .map((src) => `<img src="${src}" alt="${app.name} screenshot" />`)
+        .join("");
+      sheet.innerHTML = `
+        <div class="sheet-top">
+          <p class="eyebrow" style="margin:0">${app.status === "live" ? "On Google Play" : "In the lab"}</p>
+          <button class="close" type="button" data-close aria-label="Close">×</button>
+        </div>
+        ${app.icon ? `<img class="app-icon" src="${app.icon}" alt="" />` : ""}
+        <h2 id="sheet-title">${app.name}</h2>
+        <p class="lede">${app.description}</p>
+        ${shots ? `<div class="shots">${shots}</div>` : ""}
+        <ul class="detail-features">
+          ${app.details.map((d) => `<li><strong>${d.title}</strong>${d.text}</li>`).join("")}
+        </ul>
+        ${playButton(app.playUrl, "Install on Google Play")}
+      `;
+      overlay.classList.add("open");
+      overlay.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+      history.replaceState(null, "", `#app/${app.id}`);
+      sheet.querySelector("[data-close]").focus();
+    }
+
+    function closeApp() {
+      overlay.classList.remove("open");
+      overlay.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+      if (location.hash.startsWith("#app/")) history.replaceState(null, "", "#apps");
+    }
+
+    grid.addEventListener("click", (e) => {
+      const btn = e.target.closest("[data-open]");
+      if (btn) openApp(btn.dataset.open);
+    });
+
+    overlay.addEventListener("click", (e) => {
+      if (e.target === overlay || e.target.closest("[data-close]")) closeApp();
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && overlay.classList.contains("open")) closeApp();
+    });
+
+    renderCards();
+
+    const initial = location.hash.replace("#app/", "");
+    if (APPS.some((a) => a.id === initial)) openApp(initial);
+  </script>
 </body>
 </html>
