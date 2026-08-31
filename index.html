@@ -301,6 +301,10 @@
       padding: 24px 16px 0;
     }
 
+    .app-visual.theme-aksara {
+      background: linear-gradient(180deg, #2c2622, #f0c48a);
+    }
+
     .app-visual .phone {
       position: relative;
       right: auto;
@@ -527,7 +531,7 @@
       </div>
       <div class="stage" aria-hidden="true">
         <div class="glow"></div>
-        <div class="phone phone-c"><img src="assets/ss3.png" alt="" /></div>
+        <div class="phone phone-c"><img src="assets/aksara-ss1.png" alt="" /></div>
         <div class="phone phone-a"><img src="assets/ss2.png" alt="" /></div>
         <div class="phone phone-b"><img src="assets/ss1.png" alt="" /></div>
       </div>
@@ -551,7 +555,7 @@
           <p>
             Mimu's Labs is the personal studio of Miftah — Android apps made in Bandung, Indonesia.
             The work leans toward learning: Japanese writing with <strong>Nihon Alphabet</strong>,
-            and more experiments still in the lab.
+            and Sundanese script with <strong>Aksara Sunda</strong>.
           </p>
           <p style="margin-top:16px">
             Questions or Play listing updates:
@@ -596,6 +600,7 @@
           "assets/ss6.png"
         ],
         playUrl: "https://play.google.com/store/apps/details?id=com.mimuslabs.japanesealphabet",
+        theme: "theme-nihon",
         features: ["Hiragana & Katakana", "Beginner Kanji", "Writing practice", "Stories & vocab"],
         details: [
           { title: "Learn Hiragana & Katakana", text: "Complete phonetic alphabets with clear readings, examples, and pronunciation support." },
@@ -605,17 +610,31 @@
         description: "Nihon Alphabet helps you master the basics of Japanese writing, step by step. Built for beginners, JLPT N5 starters, and anyone learning for anime, travel, or self-study."
       },
       {
-        id: "quran-lab",
-        name: "Qur'an companion",
-        status: "lab",
-        category: "In the lab",
-        tagline: "A memorization companion is on the bench.",
-        summary: "The next experiment: a Qur'an hafalan companion with surah tracking and study tips. Not on Google Play yet.",
-        features: ["Surah list", "Memorization tracking", "Study tips"],
-        details: [
-          { title: "Still in the lab", text: "This app is being built and is not published on Google Play yet. Check back here, or follow the developer page for the release." }
+        id: "aksara-sunda",
+        name: "Aksara Sunda",
+        status: "live",
+        category: "Education",
+        tagline: "Learn Sundanese script through lessons, stories, and practice.",
+        summary: "A beginner-friendly way to learn Aksara Sunda: characters, pronunciation, vocabulary, writing, stories, and quizzes.",
+        icon: "assets/aksara-icon.png",
+        screenshots: [
+          "assets/aksara-ss1.png",
+          "assets/aksara-ss2.png",
+          "assets/aksara-ss3.png",
+          "assets/aksara-ss4.png",
+          "assets/aksara-ss5.png",
+          "assets/aksara-ss6.png",
+          "assets/aksara-ss7.png"
         ],
-        description: "An upcoming Mimu's Labs project for Qur'an memorization. When it ships, this card will open a full listing with a Play Store install button."
+        playUrl: "https://play.google.com/store/apps/details?id=com.mimuslabs.aksarasunda",
+        theme: "theme-aksara",
+        features: ["Learn the script", "Vocabulary", "Writing practice", "Stories & quizzes"],
+        details: [
+          { title: "Learn step by step", text: "Explore Sundanese characters with their sounds and forms, starting from independent vowels." },
+          { title: "Read, write, and remember", text: "Practice through reading, writing, short stories, and quizzes built for beginners." },
+          { title: "Made for Bandung", text: "A simple way into Sundanese cultural heritage — for students, beginners, and curious learners." }
+        ],
+        description: "Aksara Sunda helps you discover the traditional writing system of the Sundanese language. Learn characters, build vocabulary, and practice with interactive exercises."
       }
     ];
 
@@ -648,7 +667,7 @@
         }
         return `
           <article class="app-card">
-            <div class="app-visual">
+            <div class="app-visual ${app.theme || ""}">
               <div class="phone"><img src="${app.screenshots[0]}" alt="${app.name} screenshot" /></div>
             </div>
             <div class="app-body">
