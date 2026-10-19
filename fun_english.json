@@ -1,0 +1,560 @@
+{
+  "data": [
+    {
+      "category_id": 1,
+      "category_name": "Daily Life",
+      "level": "Beginner",
+      "list": [
+        {
+          "id": 1,
+          "title": "Morning at the Market",
+          "summary": "Sari helps her father shop for a week of food.",
+          "minutes": 4,
+          "word_count": 465,
+          "passage": "Sari and her father left the house before the sun was fully up. The air was cool, and the street was still quiet. They walked to the traditional market because Saturday was the day they bought food for the whole week. Sari carried a cloth bag on her shoulder. Her father carried a bigger bag and a list written on a small piece of paper.\n\nThe market was already busy when they arrived. Sellers called out prices in loud, friendly voices. The smell of fried tempeh mixed with the smell of fresh herbs. Sari stayed close to her father so she would not get lost between the stalls. First they stopped at the vegetable stall. A woman in a green apron smiled at them and held up a bunch of leaves.\n\n\"The spinach is very fresh today,\" she said. \"It came from the hills this morning.\"\n\nSari's father asked the price and chose a large bunch. He also bought carrots, tomatoes, and a small cabbage. Sari helped put the vegetables into the bag. The cabbage was heavier than she expected, and she laughed when the bag swung against her leg. Her father laughed too and took the heavy side of the bag so she could walk more easily.\n\nNext they visited the fruit stall. Mangoes were piled like a yellow hill. Sari pointed at the small sweet ones she liked best. Her father bought four and let her choose them herself. She pressed each mango gently with her thumb. The seller nodded and said, \"Good choice. Those will be soft and sweet by tomorrow.\"\n\nAt the fish stall, crushed ice shone under the bright lights. Sari did not like the strong smell, but she watched carefully while her father picked two fish. He checked the eyes and the gills, the way his own father had taught him years ago. \"Fresh fish should look clear, not cloudy,\" he told Sari. She repeated the sentence quietly so she would remember it next time.\n\nBefore they left the market, they bought eggs, rice, and a bunch of green onions. Sari read the last line of the list out loud so nothing would be forgotten. A motorbike moved slowly through the narrow path, and they stepped aside to let it pass. An old man who sold brooms waved at Sari. She lifted her free hand and waved back.\n\nOn the way home they stopped for warm soy milk. Sari held the cup with both hands while her father paid. People passed with baskets, boxes, and small children. She felt proud that she had helped with the shopping. The list was finished, the bags were full, and breakfast was waiting at home. The market had been loud and crowded, but walking beside her father made the whole morning feel calm.",
+          "vocabulary": [
+            {
+              "word": "stall",
+              "indonesian": "kios"
+            },
+            {
+              "word": "herbs",
+              "indonesian": "herba"
+            },
+            {
+              "word": "bunch",
+              "indonesian": "seikat"
+            },
+            {
+              "word": "gills",
+              "indonesian": "insang"
+            },
+            {
+              "word": "cloudy",
+              "indonesian": "keruh"
+            },
+            {
+              "word": "shoulder",
+              "indonesian": "bahu"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Sari and her father go to the market?",
+              "options": [
+                "They bought food for the whole week.",
+                "They wanted to sell brooms.",
+                "They were meeting Sari's teacher.",
+                "They needed a new cloth bag."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Sari's father say about fresh fish?",
+              "options": [
+                "It should smell very strong.",
+                "It should look clear, not cloudy.",
+                "It should be kept in a cloth bag.",
+                "It should come from the hills."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did they drink on the way home?",
+              "options": [
+                "Cold orange juice",
+                "Sweet tea",
+                "Warm soy milk",
+                "Plain water"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "The Rainy Bus Ride",
+          "summary": "Dimas rides across the city to visit his grandmother.",
+          "minutes": 3,
+          "word_count": 409,
+          "passage": "Dimas stood under the bus stop roof and watched the rain hit the road. He was going to his grandmother's house on the other side of the city. His backpack held a book, a bottle of water, and a box of cookies his mother had wrapped in paper. The cookies were for his grandmother, and he had promised not to open the box on the way.\n\nThe bus arrived ten minutes late. Water ran down its windows, and the door opened with a tired sound. Dimas climbed the steps, paid the driver, and looked for an empty seat. Most seats were full. A woman with a sleeping child sat near the front. Two students shared earphones in the middle. Dimas found a seat by the window, next to an older man who was reading a newspaper.\n\n\"Wet day,\" the man said.\n\n\"Yes,\" Dimas answered. \"I hope the rain slows down before I have to walk.\"\n\nThe bus moved through deep puddles. Cars waited at every light. Dimas wiped a small circle on the glass so he could see the shops outside. He saw a bakery, a phone shop, and a school with a blue gate. At the school, children in raincoats ran toward a covered walkway. One of them slipped, then stood up and laughed. Dimas smiled. He remembered doing the same thing when he was younger.\n\nHalfway through the ride, the bus stopped for a long time. The driver announced that a tree branch had fallen across the next street. People groaned, but nobody shouted. The man beside Dimas folded his newspaper. \"We can wait,\" he said. \"Being angry will not move the branch.\"\n\nDimas opened his book, but he did not read many pages. He kept thinking about his grandmother's kitchen. She would make fried bananas and ask about school. She would want to hear every small story, not only the big ones. He touched the cookie box in his bag to make sure it was still closed.\n\nAfter twenty minutes, workers pulled the branch aside and the bus rolled forward again. The rain was lighter now. When Dimas got off at his stop, the sky was pale grey instead of dark. He opened his umbrella, walked two blocks, and saw his grandmother already standing in the doorway. She waved with both hands. Dimas waved back and walked faster. The ride had been slow, but the warm light in her house made the waiting feel worth it.",
+          "vocabulary": [
+            {
+              "word": "promised",
+              "indonesian": "berjanji"
+            },
+            {
+              "word": "puddles",
+              "indonesian": "genangan air"
+            },
+            {
+              "word": "announced",
+              "indonesian": "mengumumkan"
+            },
+            {
+              "word": "branch",
+              "indonesian": "dahan"
+            },
+            {
+              "word": "groaned",
+              "indonesian": "mengeluh"
+            },
+            {
+              "word": "umbrella",
+              "indonesian": "payung"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What was inside the box in Dimas's backpack?",
+              "options": [
+                "A book for school",
+                "Cookies for his grandmother",
+                "A folded newspaper",
+                "An extra umbrella"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Why did the bus stop for a long time?",
+              "options": [
+                "The driver wanted a cup of tea.",
+                "A tree branch had fallen across the street.",
+                "Dimas could not find his ticket.",
+                "The rain had flooded the bus."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Who was waiting when Dimas reached the house?",
+              "options": [
+                "His mother",
+                "The bus driver",
+                "His grandmother",
+                "The man with the newspaper"
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category_name": "School and Friends",
+      "level": "Beginner",
+      "list": [
+        {
+          "id": 3,
+          "title": "Partners for the Project",
+          "summary": "Raka and Nia make a poster and present it together.",
+          "minutes": 3,
+          "word_count": 381,
+          "passage": "On Monday morning, Ms. Lestari wrote a new task on the board. The class would make a poster about a helpful habit. Students had to work in pairs, finish the poster by Friday, and explain it in front of the class. A few students cheered. A few students sank lower in their chairs. Raka belonged to the second group. He liked drawing, but he did not like speaking to a crowd.\n\nHis partner was Nia, a girl who always had her notes in order. She sat down beside him and opened a clean page. \"We should pick one habit and stay with it,\" she said. \"If we choose too many ideas, the poster will look messy.\"\n\nRaka thought for a moment. \"What about drinking water?\" he asked. \"People forget it when they are busy.\"\n\nNia nodded. \"That is simple and useful. You can draw the pictures. I can write the short sentences. Then we can practice the talk together.\"\n\nThey met in the library after school on Tuesday and Wednesday. Raka sketched a bottle, a clock, and a student at a desk. At first the bottle looked like a strange vase. Nia did not laugh in a mean way. She pointed at the neck of the bottle and said, \"Make this part narrower.\" Raka tried again, and the second drawing was better. He added blue drops and a small smile on the student's face.\n\nNia wrote five sentences. Each one was short enough to read from the back of the room. She also made a list of words they might need if a classmate asked a question. Raka read the list out loud until the words felt easy in his mouth. They practiced once in the library and once in an empty classroom, where their voices sounded bigger.\n\nOn Friday their hands shook a little, but they stood up together. Raka held the poster. Nia spoke first, then Raka explained the pictures. When he forgot one line, he looked at the bottle he had drawn and remembered. The class clapped. Ms. Lestari said their message was clear and their teamwork was easy to see.\n\nAfter class, Raka rolled the poster carefully. \"I still get nervous,\" he told Nia.\n\n\"Me too,\" she said. \"Nervous and ready can happen at the same time.\"",
+          "vocabulary": [
+            {
+              "word": "habit",
+              "indonesian": "kebiasaan"
+            },
+            {
+              "word": "crowd",
+              "indonesian": "keramaian"
+            },
+            {
+              "word": "sketched",
+              "indonesian": "membuat sketsa"
+            },
+            {
+              "word": "narrower",
+              "indonesian": "lebih sempit"
+            },
+            {
+              "word": "teamwork",
+              "indonesian": "kerja sama"
+            },
+            {
+              "word": "nervous",
+              "indonesian": "gugup"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What habit did Raka and Nia choose for their poster?",
+              "options": [
+                "Reading every night",
+                "Drinking water",
+                "Arriving early",
+                "Speaking to a crowd"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What was Raka's job on the project?",
+              "options": [
+                "He drew the pictures.",
+                "He wrote all the sentences.",
+                "He chose a new partner.",
+                "He graded the class."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Nia say can happen at the same time?",
+              "options": [
+                "Being late and being first",
+                "Nervous and ready",
+                "Quiet and messy",
+                "Hungry and finished"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Quiet Afternoon in the Library",
+          "summary": "Amira looks for a new book and helps another reader.",
+          "minutes": 3,
+          "word_count": 384,
+          "passage": "The school library was the coolest room on a hot Thursday. Fans turned slowly above the shelves, and the floor smelled a little like old paper and floor cleaner. Amira had come to return a storybook and to find something new. She liked the library because nobody asked her to hurry.\n\nMrs. Dewi, the librarian, scanned the returned book and smiled. \"You finished this one quickly. Are you looking for another adventure, or do you want something true this time?\"\n\nAmira was not sure. She walked past the shelves with her finger hovering near the spines. Some titles were funny. Some were about space. One thick book showed a volcano on the cover, and she pulled it out. The first page had too many hard words, so she put it back. She did not feel bad about that. Mrs. Dewi always said that choosing a book was part of reading.\n\nNear the window she found a thinner book about a girl who built a small garden in cans and buckets. The pictures were bright, and the sentences were clear. Amira sat at a table and read the first chapter. The girl in the book lived in a city apartment. She had no yard, but she still grew tomatoes. Amira thought of the narrow balcony at her own home. Maybe a tomato plant could live there too.\n\nA boy at the next table was sounding out a word under his breath. He stopped, frowned, and tried again. Amira knew that feeling. She slid a scrap of paper toward him and wrote the word in two parts. He whispered thank you and kept going. Mrs. Dewi noticed, but she only gave them a small nod. In the library, help was supposed to be quiet.\n\nAmira read until the bell for the last class. She marked her page with the library card and brought the book to the desk. \"I will take this one,\" she said.\n\n\"Bring it back when the tomatoes in the story are ready to eat,\" Mrs. Dewi said.\n\nAmira laughed. She was not sure she understood the joke completely, but she liked it. She put the book in her bag and stepped into the bright hallway. The library stayed behind her, cool and quiet, like a room that would wait until she returned.",
+          "vocabulary": [
+            {
+              "word": "librarian",
+              "indonesian": "pustakawan"
+            },
+            {
+              "word": "spines",
+              "indonesian": "punggung buku"
+            },
+            {
+              "word": "chapter",
+              "indonesian": "bab"
+            },
+            {
+              "word": "balcony",
+              "indonesian": "balkon"
+            },
+            {
+              "word": "scrap",
+              "indonesian": "carik kertas"
+            },
+            {
+              "word": "hallway",
+              "indonesian": "koridor"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Amira put the volcano book back?",
+              "options": [
+                "Another student had reserved it.",
+                "The first page had too many hard words.",
+                "Mrs. Dewi said it was too long.",
+                "The cover was torn."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What was the book Amira chose about?",
+              "options": [
+                "A trip into space",
+                "A girl who grew a garden in cans and buckets",
+                "A volcano near a school",
+                "A boy who lost his library card"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "How did Amira help the boy at the next table?",
+              "options": [
+                "She read his whole chapter out loud.",
+                "She wrote a hard word in two parts.",
+                "She gave him her storybook.",
+                "She asked Mrs. Dewi to send him out."
+              ],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "category_name": "Nature and Places",
+      "level": "Intermediate",
+      "list": [
+        {
+          "id": 5,
+          "title": "A Morning in the Rainforest",
+          "summary": "Farah visits the forest and learns to wait quietly.",
+          "minutes": 3,
+          "word_count": 393,
+          "passage": "The ranger asked the visitors to keep their voices low. They were standing on a wooden walkway above the wet forest floor, and the morning mist still hung between the trees. Farah pulled her jacket closer. She had joined a student trip to see the rainforest, and she wanted to remember every sound.\n\n\"Look, but do not touch,\" the ranger said. \"Some plants protect themselves with sharp hairs or strong smells. The forest is not a garden that we arrange. It is a home that was here before we arrived.\"\n\nFarah wrote that sentence in her notebook. Below the walkway, brown leaves covered the ground. A beetle with a shiny green back crossed a root and disappeared. Somewhere above them, a bird called twice, then stopped, as if it was listening too.\n\nThe ranger pointed to a tall tree with wide roots that looked like walls. \"Those roots hold the tree up in thin soil,\" he explained. \"Rain here is heavy. Without strong roots, the tree would fall.\" He also showed them a vine that climbed toward the light. Plants on the forest floor do not always get enough sun, so some of them grow upward and borrow the height of others.\n\nFarah had expected monkeys to swing past at once. They did not. For a long time the group saw only leaves, insects, and one small frog no bigger than a coin. A boy behind her sighed. The ranger heard it and smiled. \"Wild animals do not perform for us. If we are patient and quiet, they may come close. If we are loud, they will stay hidden, and they are right to do so.\"\n\nThey waited. Water dripped from a leaf onto Farah's sleeve. Then a branch moved, and a dark shape sat high in a tree. It was an orangutan, resting with one arm over a bent knee. Nobody spoke. The orangutan looked down for a moment, calm and unhurried, and then turned its face away. Farah's heart beat fast, but she kept her mouth closed.\n\nOn the bus back to school she opened her notebook and added one more line. The most exciting part of the forest was not a show. It was the feeling of being a guest. She wanted to tell her class that patience had given them one clear look, and that one look was enough.",
+          "vocabulary": [
+            {
+              "word": "ranger",
+              "indonesian": "penjaga hutan"
+            },
+            {
+              "word": "walkway",
+              "indonesian": "jembatan kayu"
+            },
+            {
+              "word": "mist",
+              "indonesian": "kabut tipis"
+            },
+            {
+              "word": "vine",
+              "indonesian": "tanaman merambat"
+            },
+            {
+              "word": "patient",
+              "indonesian": "sabar"
+            },
+            {
+              "word": "guest",
+              "indonesian": "tamu"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What rule did the ranger give the visitors?",
+              "options": [
+                "Look, but do not touch.",
+                "Feed the animals if they come close.",
+                "Pick one leaf to take home.",
+                "Walk off the path to see more."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why do some plants climb upward?",
+              "options": [
+                "The soil is too cold for roots.",
+                "Plants on the ground do not always get enough sun.",
+                "The ranger plants them that way.",
+                "They are trying to hide from frogs."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Which animal did the group finally see in the tree?",
+              "options": [
+                "A monkey swinging past",
+                "A green beetle",
+                "An orangutan",
+                "A large bird"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Evening in the Rice Fields",
+          "summary": "Bima walks the fields with his grandfather after school.",
+          "minutes": 3,
+          "word_count": 383,
+          "passage": "When the sun dropped lower, the rice fields turned gold. Pak Rahman walked along the narrow path between the water and the young plants. His grandson, Bima, followed with a stick in one hand. They were not hunting anything. The stick was only for balance when the mud was slippery.\n\n\"Rice looks simple from the road,\" Pak Rahman said. \"Up close, it is a long promise. We plant, we wait, we watch the water, and we hope the rain comes at the right time.\"\n\nBima looked at the green rows. They seemed endless. He knew his grandfather woke up early during planting season. He had not known how many small jobs filled the hours. Today they checked for insects, pulled a few weeds, and made sure the water was not too deep. A bird stood in the shallow water and tilted its head. Pak Rahman did not chase it away. \"That one eats pests,\" he said. \"Not every visitor is a problem.\"\n\nThey sat on a dry bank and shared sweet tea from a bottle. The air smelled like wet soil and cut grass. In the distance, someone rode a motorbike along the village road, and the sound faded. Bima asked why his grandfather still farmed when the work was so hard.\n\nPak Rahman was quiet for a while. Then he patted the ground beside him. \"This field fed my parents. It fed me. If I take care of it, it can feed you too, or it can teach you where food begins. Both things matter. A person can choose another job later. A person should not forget the ground.\"\n\nBima did not answer at once. He watched a dragonfly land on a rice leaf and lift off again. School would start again on Monday, and he had homework waiting at home. Still, he was glad he had come. The field was not only a picture for a holiday. It was his family's work, repeated season after season.\n\nOn the walk back, Bima carried the empty bottle and matched his grandfather's slow steps. The sky was pink at the edges. Frogs began to call from the ditches. Tomorrow the plants would still need water, and the weeds would try again. For tonight, the gold light on the field was enough of a reward.",
+          "vocabulary": [
+            {
+              "word": "slippery",
+              "indonesian": "licin"
+            },
+            {
+              "word": "weeds",
+              "indonesian": "gulma"
+            },
+            {
+              "word": "pests",
+              "indonesian": "hama"
+            },
+            {
+              "word": "season",
+              "indonesian": "musim"
+            },
+            {
+              "word": "ditches",
+              "indonesian": "parit"
+            },
+            {
+              "word": "reward",
+              "indonesian": "imbalan"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Bima carry a stick?",
+              "options": [
+                "To chase birds out of the field",
+                "For balance when the mud was slippery",
+                "To mark the rows he had counted",
+                "To knock mangoes from a tree"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Why did Pak Rahman let the bird stay?",
+              "options": [
+                "It eats pests.",
+                "It belonged to a neighbor.",
+                "Bima wanted it as a pet.",
+                "It was too far away to chase."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Pak Rahman say a person should not forget?",
+              "options": [
+                "The homework on the table",
+                "The motorbike on the road",
+                "The ground",
+                "The empty bottle"
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 4,
+      "category_name": "Stories",
+      "level": "Intermediate",
+      "list": [
+        {
+          "id": 7,
+          "title": "The Kite on the Roof",
+          "summary": "Lina's kite gets stuck, and she asks for help.",
+          "minutes": 3,
+          "word_count": 387,
+          "passage": "Lina had built the kite herself from thin paper, two sticks, and a long tail made of ribbon. She had drawn a red sun in the middle. On Sunday afternoon the wind was finally strong enough, so she and her cousin Ari took the kite to the open field behind their houses.\n\nThe first try failed. The kite jumped, twisted, and fell into the grass. Ari laughed, then stopped when he saw Lina's face. \"The tail is too short,\" he said. \"It cannot balance.\" They tied on another ribbon. The second try was better. The kite rose above the fence, above the banana trees, and tugged at the string in Lina's hands. She shouted without meaning to. For ten bright minutes everything worked.\n\nThen the wind changed. A harder gust pulled the kite toward the row of houses. Lina ran, but the string burned her fingers and slipped. The kite dropped behind a roof and did not come back up. They stared at the red sun, now trapped beside a water tank on Mrs. Widya's house.\n\n\"We cannot climb that,\" Ari said. \"The tiles break, and she will be angry.\"\n\nLina agreed. They knocked on Mrs. Widya's door and told the truth at once. The old woman listened, looked at their dusty knees, and sighed. \"You are honest, so I will help. My son is coming this evening with a ladder. You may wait.\"\n\nThey waited on the front step and did small jobs so the time would feel useful. Ari swept the porch. Lina watered three pots of flowers. Mrs. Widya brought them cool water and told them about a kite she had lost in a river when she was twelve. \"I cried so much that my brother was embarrassed,\" she said. \"The river kept the kite. At least yours is only on a roof.\"\n\nWhen her son arrived, he climbed carefully and freed the paper without tearing it. One stick was bent. The red sun was still bright. Lina thanked them more than once. At home she laid the kite on the table and straightened the stick as well as she could. The kite would fly again another day. The better ending was that she had not tried to grab it alone. Asking for help had brought the red sun back down to her hands.",
+          "vocabulary": [
+            {
+              "word": "ribbon",
+              "indonesian": "pita"
+            },
+            {
+              "word": "gust",
+              "indonesian": "hembusan angin"
+            },
+            {
+              "word": "tiles",
+              "indonesian": "genteng"
+            },
+            {
+              "word": "honest",
+              "indonesian": "jujur"
+            },
+            {
+              "word": "ladder",
+              "indonesian": "tangga"
+            },
+            {
+              "word": "porch",
+              "indonesian": "beranda"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did the kite fail on the first try?",
+              "options": [
+                "The paper was wet.",
+                "The tail was too short.",
+                "Ari cut the string.",
+                "There was no wind at all."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Where did the kite get stuck?",
+              "options": [
+                "In a river",
+                "In the banana trees",
+                "Beside a water tank on Mrs. Widya's roof",
+                "On the school fence"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "How did they get the kite down?",
+              "options": [
+                "Lina climbed the tiles herself.",
+                "Mrs. Widya's son used a ladder.",
+                "The wind blew it back to the field.",
+                "Ari pulled it with a broom."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "The Lost Key at the Night Market",
+          "summary": "Hana and her brother search the market for a missing key.",
+          "minutes": 3,
+          "word_count": 407,
+          "passage": "The night market opened when the heat of the day finally loosened. Lights hung in rows above the stalls, and music from a speaker mixed with the sound of chopping and laughter. Hana was there with her older brother, Fajar, to buy grilled corn and to look at the handmade bracelets. She kept her hand on the small pocket where her house key hung from a blue string.\n\nThey ate first. The corn was hot, salty, and a little sweet. Fajar paid, and Hana held both cobs while he found napkins. After they finished, she wanted to see the bracelet stall before it closed. She was halfway there when her fingers touched an empty pocket. The key and the blue string were gone.\n\nHana stopped so suddenly that Fajar bumped into her. \"My key,\" she said. \"It was in my pocket.\"\n\nThey did not search in a useful way at first. Hana wanted to run in every direction. Fajar took a breath and put his hands on her shoulders. \"We go back along the same path. We ask people. We look down, not only ahead.\"\n\nThey returned to the corn stall. The seller shook his head, then checked the ground near his feet and the box where he kept extra napkins. Nothing. A girl selling drinks let them look under her table. A man with a guitar moved his case so they could see the pavement. Everyone was busy, but most people still helped for a moment.\n\nHana was close to tears when she remembered the napkins. Fajar had taken them from a metal holder near a pole. She ran there and knelt. The blue string was caught on a cracked piece of the stand, just above the ground. The key turned slowly in the air, as if it had been waiting. She closed her hand around it and laughed once, a short shaky laugh.\n\n\"Check your pocket now,\" Fajar said, and he was smiling too.\n\nHana tied the string around her wrist instead of trusting the pocket again. They still visited the bracelet stall, but she did not buy anything. She had already spent her courage for the evening. On the ride home she told Fajar the part she wanted to remember. Losing the key had been frightening. Finding it had been a plan, not magic. They had gone back, asked, and looked carefully. Next time, she would keep the knot where she could see it.",
+          "vocabulary": [
+            {
+              "word": "bracelets",
+              "indonesian": "gelang"
+            },
+            {
+              "word": "pocket",
+              "indonesian": "saku"
+            },
+            {
+              "word": "napkins",
+              "indonesian": "serbet"
+            },
+            {
+              "word": "pavement",
+              "indonesian": "trotoar"
+            },
+            {
+              "word": "courage",
+              "indonesian": "keberanian"
+            },
+            {
+              "word": "knot",
+              "indonesian": "simpul"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What did Hana lose at the night market?",
+              "options": [
+                "Her bracelet",
+                "Her house key",
+                "Fajar's wallet",
+                "The grilled corn"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did Fajar tell Hana to do?",
+              "options": [
+                "Buy a new key at once",
+                "Go home and leave the market",
+                "Go back the same way, ask people, and look down",
+                "Ask the guitar player to stop the music"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "Where did they find the key?",
+              "options": [
+                "Under the drink seller's table",
+                "Inside the cookie box",
+                "Caught on the napkin stand",
+                "In Mrs. Widya's porch"
+              ],
+              "answer": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
