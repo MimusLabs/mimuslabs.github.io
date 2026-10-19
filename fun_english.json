@@ -136,6 +136,204 @@
               "answer": 2
             }
           ]
+        },
+        {
+          "id": 9,
+          "title": "Saturday at the Corner Shop",
+          "summary": "Rafi helps Bu Sinta in the shop and learns to give clear answers.",
+          "minutes": 3,
+          "word_count": 438,
+          "passage": "Rafi stopped at the corner shop every weekday morning on his way to school. The bell over the door rang, and the owner, Bu Sinta, always looked up from her notebook. The shop was small. Shelves of soap, noodles, and bottled tea reached almost to the ceiling. A fan turned in the corner and moved the warm air from one side of the room to the other.\n\n\"The usual?\" Bu Sinta asked.\n\n\"Yes, please,\" Rafi said. He bought a carton of milk for his little sister and a piece of bread for himself. His mother had started a new shift at the clinic, so breakfast at home was shorter now. The shop had become part of the morning.\n\nWhile Bu Sinta counted the change, Rafi looked at the handwritten prices taped to the shelf. Eggs had gone up. Sugar had stayed the same. He did not need either one today, but he liked knowing. Bu Sinta noticed.\n\n\"You read those labels more carefully than some adults,\" she said. \"If you ever want to help me on Saturday, I will pay you in bread and a lesson.\"\n\nRafi smiled. \"What kind of lesson?\"\n\n\"How not to lose count when three customers talk at once.\"\n\nThat Saturday he came back after he finished his homework. Bu Sinta gave him an apron that was too long. He folded the waistband twice. His first job was to stack the bottled water in straight rows. Then a customer asked for detergent, and Rafi found it on the bottom shelf. He said the price clearly and waited while the man checked his coins.\n\nAt noon the shop grew busy. A girl wanted candy. A neighbor wanted rice. Someone asked for a brand of tea that was finished. Bu Sinta did not look worried. \"Tell them what we do have,\" she said. \"A clear answer is better than a long search.\"\n\nRafi repeated that to himself. When he did not know a price, he asked instead of guessing. When he gave the wrong change once, he noticed before the customer left, apologized, and fixed it. Bu Sinta nodded. \"Mistakes are part of the work. Hiding them is the real problem.\"\n\nBy the afternoon his feet hurt and his apron was dusty. Bu Sinta handed him a warm roll and the coins they had agreed on. Rafi put the coins in his pocket and ate the roll on the step outside. The bell rang again as another customer entered. He already knew he would come back next Saturday. The shop was loud and narrow, but every task had a clear end, and he liked being useful.",
+          "vocabulary": [
+            {
+              "word": "carton",
+              "indonesian": "karton"
+            },
+            {
+              "word": "change",
+              "indonesian": "uang kembalian"
+            },
+            {
+              "word": "detergent",
+              "indonesian": "deterjen"
+            },
+            {
+              "word": "apron",
+              "indonesian": "celemek"
+            },
+            {
+              "word": "guessing",
+              "indonesian": "menebak"
+            },
+            {
+              "word": "useful",
+              "indonesian": "berguna"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What did Rafi buy on weekday mornings?",
+              "options": [
+                "Eggs and sugar",
+                "A carton of milk and a piece of bread",
+                "Detergent and rice",
+                "A new apron"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did Bu Sinta tell Rafi to do when an item was finished?",
+              "options": [
+                "Tell the customer what the shop did have",
+                "Hide the empty shelf",
+                "Guess a new price",
+                "Close the shop at noon"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Rafi do when he gave the wrong change?",
+              "options": [
+                "He waited until Monday to fix it.",
+                "He hid the mistake.",
+                "He noticed, apologized, and fixed it.",
+                "He asked the customer to keep it."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Washing Day on the Balcony",
+          "summary": "Dina helps her mother wash, hang, and fold the clothes.",
+          "minutes": 3,
+          "word_count": 435,
+          "passage": "On Sunday the sun came out after three wet days, and Dina's mother said it was time to wash everything. Sheets, school shirts, towels, and two pillowcases waited in a basket by the bathroom door. Their apartment did not have a yard. The washing machine stood in a corner of the kitchen, and the drying line was on the balcony.\n\nDina carried the basket while her mother measured the soap. \"Too much soap does not make clothes cleaner,\" her mother said. \"It only makes them hard to rinse.\" Dina watched the cup. She wanted to pour more, because the bottle smelled nice, but she stopped at the line her mother had shown her.\n\nThe machine hummed. While they waited, they wiped the table and swept the floor. Dina's little brother, Yoga, tried to help and mostly moved dust from one place to another. Their mother did not scold him. She gave him a small cloth and a low shelf he could actually reach.\n\nWhen the machine stopped, the clothes were heavy with water. Dina and her mother lifted them into a basin and carried the basin to the balcony. The line was already full of pegs. Dina shook each shirt before she hung it, so the cloth would not dry in a twisted shape. Yoga handed her pegs, two at a time, and announced the colors as if they were a game.\n\nA wind moved through the balcony and lifted the edge of a sheet. The sheet brushed Dina's face and made her laugh. From the next balcony, a neighbor waved over a pot of chili plants. Below them, the street was bright. Someone was repairing a bicycle. Someone else was selling iced drinks from a cart.\n\n\"Do not lean on the railing,\" her mother said, not sharply, just as a habit. Dina stepped back and clipped the last towel. Her arms ached in a pleasant way. The line of clothes looked like flags.\n\nIn the late afternoon they brought the dry clothes inside. The shirts smelled like sunlight. Dina folded the sleeves the way her mother had taught her, edge to edge. One sock was missing. They found it behind the basin, still damp, and hung it alone on a chair near the window.\n\n\"Washing is never finished in one move,\" her mother said. \"You wash, you hang, you fold, and then you notice the one thing you missed.\"\n\nDina put the folded shirts in the cupboard. Tomorrow morning her uniform would be ready, and she would know exactly whose hands had made it ready. That felt better than grabbing it from a pile.",
+          "vocabulary": [
+            {
+              "word": "rinse",
+              "indonesian": "membilas"
+            },
+            {
+              "word": "basin",
+              "indonesian": "baskom"
+            },
+            {
+              "word": "pegs",
+              "indonesian": "jepitan jemuran"
+            },
+            {
+              "word": "railing",
+              "indonesian": "pagar balkon"
+            },
+            {
+              "word": "folded",
+              "indonesian": "dilipat"
+            },
+            {
+              "word": "damp",
+              "indonesian": "lembab"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Dina's mother say not to use too much soap?",
+              "options": [
+                "It makes clothes hard to rinse.",
+                "The bottle was almost empty.",
+                "Yoga was allergic to it.",
+                "The machine could not hold it."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Where did the family hang the wet clothes?",
+              "options": [
+                "In the yard",
+                "On the balcony",
+                "Over the kitchen table",
+                "On the neighbor's railing"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What was still damp at the end of the day?",
+              "options": [
+                "A school shirt",
+                "The last towel",
+                "One sock",
+                "Yoga's small cloth"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "title": "The Long Way Home",
+          "summary": "Intan walks home along the canal and finds a loose bridge board.",
+          "minutes": 3,
+          "word_count": 427,
+          "passage": "Usually Intan took the main road home from school. It was straight, noisy, and fast. On Thursday her friend Yusuf had football practice, so she walked alone and decided to try the long way. The long way followed a canal, then a row of houses with plants in tin cans, then a small bridge.\n\nThe canal water was low and slow. Dragonflies hovered over it. Intan kept her bag on both shoulders and did not walk too close to the edge. A woman was rinsing a bucket. She nodded at Intan, and Intan nodded back. Nobody else seemed in a hurry.\n\nAt the houses, an old man sat on a stool fixing a radio. The radio crackled, then found a song, then lost it again. He looked up. \"If you are going to the bridge, the middle board is loose,\" he said. \"Step on the side.\"\n\n\"Thank you,\" Intan said. She was glad he had told her. She had almost walked across without looking.\n\nShe tested the bridge with one foot. The middle board dipped. She stepped to the right, where the nails looked newer, and crossed. On the other side a cat watched her from a wall and did not move. Intan liked that the cat was not afraid, only uninterested.\n\nThe long way added ten minutes. She did not mind. On the main road, motorbikes passed so close that she had to think about traffic the whole time. Here she could think about the science worksheet in her bag. She tried to remember the difference between a solid and a liquid. The canal helped. The water had a shape only because the banks held it. Take away the banks, and it would spread. She smiled at her own example. Maybe she would write it down before she forgot.\n\nNear her street she bought a small bunch of bananas from a cart. The seller knew her mother and added one extra banana without comment. Intan said thank you twice.\n\nAt home her mother was surprised. \"You are late. Was the road crowded?\"\n\n\"I took the long way,\" Intan said. \"A man told me about a loose board, and I saw a cat who did not care about me at all.\"\n\nHer mother laughed and took the bananas. \"The long way is fine if you tell me first next time. I like knowing which road has you.\"\n\nIntan agreed. She set her bag down, washed her hands, and wrote the canal example at the top of her worksheet before dinner could wash it out of her mind.",
+          "vocabulary": [
+            {
+              "word": "canal",
+              "indonesian": "kanal"
+            },
+            {
+              "word": "loose",
+              "indonesian": "longgar"
+            },
+            {
+              "word": "solid",
+              "indonesian": "padat"
+            },
+            {
+              "word": "liquid",
+              "indonesian": "cair"
+            },
+            {
+              "word": "bunch",
+              "indonesian": "seikat"
+            },
+            {
+              "word": "worksheet",
+              "indonesian": "lembar kerja"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Intan walk home alone?",
+              "options": [
+                "Yusuf had football practice.",
+                "The main road was closed.",
+                "Her mother asked her to buy bananas.",
+                "She missed the bus."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What warning did the old man give her?",
+              "options": [
+                "The canal was too deep.",
+                "The middle board of the bridge was loose.",
+                "The cat did not like strangers.",
+                "The radio was broken."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did Intan's mother want next time?",
+              "options": [
+                "A bigger bunch of bananas",
+                "Intan to stay on the main road forever",
+                "Intan to tell her before taking the long way",
+                "The worksheet finished before school"
+              ],
+              "answer": 2
+            }
+          ]
         }
       ]
     },
@@ -271,6 +469,204 @@
                 "She wrote a hard word in two parts.",
                 "She gave him her storybook.",
                 "She asked Mrs. Dewi to send him out."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Shoes for the Match",
+          "summary": "Andi and his sister find a missing sports shoe before practice.",
+          "minutes": 3,
+          "word_count": 395,
+          "passage": "The class match was on Friday, and Andi could not find his sports shoes. He searched under the bed, behind the door, and inside a box of old toys. He found one shoe. The other was gone. Practice started at four. Without both shoes, the coach would tell him to sit out.\n\nHis father was still at work. His older sister, Wulan, was at the kitchen table with her own books. Andi stood in the doorway in his school socks and tried not to sound panicked.\n\n\"I only have one,\" he said.\n\nWulan closed her book. \"When did you last wear them?\"\n\n\"Tuesday. We ran laps. I think I put them on the porch to dry.\"\n\nThey went to the porch. The mat was empty. A neighbor's dog sometimes carried things, but the dog was asleep and looked too innocent to question. Wulan checked the shoe rack again, then the bathroom, then the bag Andi had used on Tuesday. The missing shoe was not in the bag. A damp sock was.\n\n\"Think smaller,\" Wulan said. \"Where would one shoe hide if it fell?\"\n\nAndi got on his knees and looked under the porch step. Something white was stuck between a brick and the wall. He pulled. It was the shoe, dusty and a little chewed at the lace, but still a shoe. He held it up as if he had won a prize.\n\n\"The dog,\" he said.\n\n\"Maybe,\" Wulan said. \"Or you kicked it there and forgot. Either way, it needs a wash.\"\n\nThey cleaned it with a wet cloth and soap. Andi worked on the dust. Wulan picked the dirt out of the tread with a stick. The lace could not be saved, so Wulan took a spare lace from her own old pair and showed Andi how to pull it through the holes without skipping one. He watched once, then did the rest himself.\n\nIt was three forty when they finished. Andi put both shoes on and jumped twice to test them. They felt even. He grabbed his water bottle.\n\n\"Thank you,\" he said at the door.\n\n\"Score one goal and we are even,\" Wulan said.\n\nAndi did not score. He did pass the ball twice to a teammate who did. After the match he told Wulan the truth. She shrugged. \"Then the shoes did their job. They got you on the field.\"",
+          "vocabulary": [
+            {
+              "word": "panicked",
+              "indonesian": "panik"
+            },
+            {
+              "word": "porch",
+              "indonesian": "beranda"
+            },
+            {
+              "word": "tread",
+              "indonesian": "tapak sepatu"
+            },
+            {
+              "word": "spare",
+              "indonesian": "cadangan"
+            },
+            {
+              "word": "lace",
+              "indonesian": "tali sepatu"
+            },
+            {
+              "word": "teammate",
+              "indonesian": "rekan satu tim"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Where did Andi find the missing shoe?",
+              "options": [
+                "Inside his sports bag",
+                "Under the porch step",
+                "Behind the kitchen door",
+                "In the neighbor's yard"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Why did they replace the lace?",
+              "options": [
+                "The color did not match the team.",
+                "It could not be saved.",
+                "Wulan wanted her lace back.",
+                "The coach had asked for new laces."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did Andi do in the match?",
+              "options": [
+                "He scored the only goal.",
+                "He sat out because one shoe still hurt.",
+                "He passed the ball twice to a teammate who scored.",
+                "He left at three forty."
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "title": "The Plant Experiment",
+          "summary": "Lala's group tests what bean plants need to grow.",
+          "minutes": 3,
+          "word_count": 396,
+          "passage": "Ms. Putri wanted the class to see what plants actually need. She gave each group three small pots, soil, and bean seeds. \"Same seeds, same soil, different treatment,\" she said. \"Write what you do. Do not trust your memory.\"\n\nLala's group included Bima and Sinta. They labeled the pots A, B, and C with tape. Pot A would get water and sunlight. Pot B would get water but stay in a cupboard. Pot C would get sunlight but no water. Sinta wrote the plan in a notebook. Bima wanted to water all of them \"just a little,\" because he felt sorry for pot C. Lala shook her head.\n\n\"If we change the plan, we will not learn anything,\" she said. \"Pot C is supposed to be dry. We can plant more beans at home if you want.\"\n\nThey set the pots on Monday. Every day at the end of school, Sinta checked them and wrote one sentence. On Wednesday, pot A showed a pale hook pushing out of the soil. Pot B showed a thinner hook, almost white. Pot C showed nothing. Bima looked disappointed and proud at the same time. The plan was working, even the sad part.\n\nBy Friday, pot A was green and standing up. Pot B had grown taller but looked weak, and its leaves were yellow. \"It is searching for light,\" Ms. Putri said. \"It spent its energy on height because the seed only has a little food inside.\" Pot C was still only soil. Sinta drew all three pots and labeled the differences without using the word \"bad.\" Ms. Putri had asked them to describe, not judge.\n\nOn Monday they moved pot B into the light and gave pot C a careful drink. \"Now you are not starting a new experiment,\" Ms. Putri said. \"You are asking a second question. Can they recover?\" Two of the students guessed no. Lala guessed yes for pot B and no for pot C.\n\nShe was half right. Pot B turned greener in four days. Pot C never sprouted. The seed had dried out. The group wrote that water and light do different jobs, and that a seed cannot wait forever. Bima still felt a little sorry. He also said he would not forget to water the herbs on his aunt's balcony. The experiment had been about beans. It ended up being about attention.",
+          "vocabulary": [
+            {
+              "word": "treatment",
+              "indonesian": "perlakuan"
+            },
+            {
+              "word": "cupboard",
+              "indonesian": "lemari"
+            },
+            {
+              "word": "energy",
+              "indonesian": "energi"
+            },
+            {
+              "word": "recover",
+              "indonesian": "pulih"
+            },
+            {
+              "word": "sprouted",
+              "indonesian": "berkecambah"
+            },
+            {
+              "word": "attention",
+              "indonesian": "perhatian"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What was different about pot B?",
+              "options": [
+                "It got water but stayed in a cupboard.",
+                "It got sunlight but no water.",
+                "It had different soil.",
+                "It was never planted."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why did pot B grow tall and yellow?",
+              "options": [
+                "Bima watered it too much.",
+                "It was searching for light.",
+                "The seed was a different kind.",
+                "Ms. Putri moved it on Monday."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Which pot never sprouted?",
+              "options": [
+                "Pot A",
+                "Pot B",
+                "Pot C",
+                "All three pots"
+              ],
+              "answer": 2
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "title": "Lunch Under the Tree",
+          "summary": "Nadia and her friends share lunch when one of them forgets hers.",
+          "minutes": 3,
+          "word_count": 386,
+          "passage": "The cafeteria was full, and the line reached the door, so Nadia and her friends carried their lunch boxes to the tree behind the classroom. The ground was dry. Roots made the sitting uneven, but the shade was better than the noisy hall. They had twenty minutes before the bell.\n\nNadia opened her box and found rice, egg, and cucumber. Her friend Omar had fried noodles. Their classmate Tia had forgotten her box at home and was trying to pretend she was not hungry. She drank water and said she would wait until later.\n\nOmar pushed his box toward the middle without making a speech. \"I cannot finish this,\" he said, which was not true. He always finished it. Tia looked at him, then at Nadia. Nadia tore her cucumber into three pieces and added one piece to the noodles. \"Then we share,\" she said. \"Otherwise you will have too much, and that is wasteful.\"\n\nTia laughed, because the excuse was thin and kind. She ate slowly, as if she wanted the sharing to stay small. Nobody asked why the box had been left at home. Nadia was glad. Some reasons were not for the lunch break.\n\nWhile they ate, they watched a group of younger students play a guessing game near the fence. One boy kept shouting the answer too early, and his friends groaned. Tia said, \"He is not wrong. He is just fast in the wrong place.\" The sentence made them all quiet for a second, then Omar repeated it and pointed at himself. He had done the same thing in math that morning.\n\nThe bell rang earlier than they wanted. They packed the boxes, brushed crumbs off their skirts and trousers, and checked the ground so ants would not have a feast. Tia held the empty noodle box to return it. \"I will bring extra fruit tomorrow,\" she said.\n\n\"You do not have to pay us back,\" Nadia said.\n\n\"I know,\" Tia said. \"I want to. Sharing works better when it can move in more than one direction.\"\n\nThey walked back into the bright corridor. The cafeteria line was finally short. Nadia did not regret missing it. Lunch under the tree had been uneven ground, a small cucumber, and a friend who was no longer pretending. That was enough for one noon.",
+          "vocabulary": [
+            {
+              "word": "cafeteria",
+              "indonesian": "kantin"
+            },
+            {
+              "word": "uneven",
+              "indonesian": "tidak rata"
+            },
+            {
+              "word": "pretend",
+              "indonesian": "berpura-pura"
+            },
+            {
+              "word": "wasteful",
+              "indonesian": "boros"
+            },
+            {
+              "word": "crumbs",
+              "indonesian": "remah"
+            },
+            {
+              "word": "direction",
+              "indonesian": "arah"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did they eat under the tree?",
+              "options": [
+                "The cafeteria line reached the door.",
+                "The teacher told them to leave the hall.",
+                "Tia wanted to play a guessing game.",
+                "It was raining in the cafeteria."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Omar say that was not true?",
+              "options": [
+                "He had forgotten his box.",
+                "He could not finish his noodles.",
+                "He disliked cucumber.",
+                "He had a math test that morning."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did Tia plan to bring the next day?",
+              "options": [
+                "A new lunch box",
+                "Extra fruit",
+                "Fried noodles for the class",
+                "A game for the younger students"
               ],
               "answer": 1
             }
@@ -414,6 +810,204 @@
               "answer": 2
             }
           ]
+        },
+        {
+          "id": 15,
+          "title": "Stones at Low Tide",
+          "summary": "Alya walks the uncovered beach and learns to leave the animals alone.",
+          "minutes": 3,
+          "word_count": 383,
+          "passage": "The sea had pulled back so far that the beach looked wider than usual. Dark rocks that were normally underwater sat in the sun, covered with shells and slippery green weed. Pak Joko, who lived near the shore, had agreed to walk with the youth club for one hour. \"Low tide is a door,\" he said. \"It opens, and then it closes. We do not stay for the closing.\"\n\nAlya stepped carefully. Her sandals were in her hand because they slid on the weed. In a shallow pool she saw a crab no bigger than a coin. It lifted its claws and sidestepped under a stone. She wanted to move the stone. Pak Joko shook his head.\n\n\"If you lift the roof off a house, you should be ready to be the weather,\" he said. \"Leave it. Look from the side.\"\n\nAlya crouched and waited. The crab came out again, decided she was not a threat, and began picking at something too small to name. Farther along, the group found sea snails stuck hard to the rock. A boy tried to pull one. It did not move. Pak Joko told him that the snail's grip was its way of staying alive until the water returned. \"Strength is not always running,\" he said. \"Sometimes it is holding on.\"\n\nThey saw a starfish in a pool near the edge of the wet sand. Its color was dull until the water moved over it. Then the color deepened. Alya wrote that in her notebook: some things look plain until the sea touches them. She also wrote the time. Pak Joko had asked every student to notice when they arrived and when they left.\n\nThe wind changed. A thin line of foam began to crawl back toward the rocks. It was not dramatic. It was steady. Pak Joko clapped once. \"The door is closing. Up to the dry sand.\"\n\nThey walked back above the tide line and sat on a low wall. Alya's feet were sandy and cold. She was glad they had not chased the crab or forced the snail. The beach would be ordinary again by evening, the rocks hidden, the pools gone. What she kept was the hour when the sea had trusted them with its floor, and they had tried to deserve it.",
+          "vocabulary": [
+            {
+              "word": "tide",
+              "indonesian": "pasang surut"
+            },
+            {
+              "word": "slippery",
+              "indonesian": "licin"
+            },
+            {
+              "word": "weed",
+              "indonesian": "rumput laut"
+            },
+            {
+              "word": "grip",
+              "indonesian": "cengkeraman"
+            },
+            {
+              "word": "foam",
+              "indonesian": "busa"
+            },
+            {
+              "word": "deserve",
+              "indonesian": "layak mendapatkan"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Pak Joko stop Alya from moving the stone?",
+              "options": [
+                "The stone was too heavy.",
+                "The crab was using it as a home.",
+                "The tide had already closed.",
+                "The sandals were under it."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did the snail's grip help it do?",
+              "options": [
+                "Stay alive until the water returned",
+                "Change color in the pool",
+                "Climb onto the dry sand",
+                "Open the tide like a door"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What sign told the group to leave the rocks?",
+              "options": [
+                "The crab hid again.",
+                "A line of foam moved back toward the rocks.",
+                "The starfish left the pool.",
+                "Alya closed her notebook."
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "title": "The Path Up the Hill",
+          "summary": "Gilang and Rara climb the hill behind the village.",
+          "minutes": 3,
+          "word_count": 390,
+          "passage": "Behind the village, a hill rose in a slow curve. From the bottom it looked easy. Gilang and his cousin Rara started climbing after breakfast, with a bottle of water and two boiled eggs wrapped in paper. Their uncle had said the view was worth the path, and that the path was worth more than the view.\n\nThe first part went through tall grass. Insects jumped ahead of their feet. Rara talked the whole way, about school, about a film, about the dog that had followed them and then given up. Gilang answered when he had breath. He had not expected to lose his breath so soon.\n\nHalfway up, the grass became shrubs and the path turned into packed dirt with stones. They stopped at a flat rock. The eggs were still warm. They ate them and shared the water without finishing it. \"Leave some for the top,\" Rara said. \"The top is where people get careless.\"\n\nA goat stood on the slope above them, chewing, watching with yellow eyes. It did not come closer. Gilang was relieved and a little insulted. He had wanted a story about a wild animal. A goat that ignored them was still a true story. He decided it counted.\n\nNear the top the wind was stronger and the trees were shorter. The village appeared below in pieces: the tin roofs, the school field, the road that led to the market. Their own house was a brown rectangle beside a mango tree. Rara pointed. \"We hang the washing there. From here it is only a white dot.\"\n\nGilang sat down because his legs had started to shake. The shaking was not fear. It was effort leaving the muscles. He drank the rest of his share of water and felt it go all the way down. The view was wide, but what he noticed most was the quiet. No motorbikes. No one calling his name from a doorway.\n\nOn the way down they went slower than on the way up. Loose stones slid under their sandals. Rara stopped talking as much. At the bottom, their uncle was repairing a fence. He looked at their dusty knees and nodded. \"You made it.\"\n\n\"The goat did not care,\" Gilang said.\n\n\"Good,\" their uncle said. \"The hill is not a performance. You climbed it. That is the whole point.\"",
+          "vocabulary": [
+            {
+              "word": "curve",
+              "indonesian": "kelokan"
+            },
+            {
+              "word": "shrubs",
+              "indonesian": "semak"
+            },
+            {
+              "word": "careless",
+              "indonesian": "ceroboh"
+            },
+            {
+              "word": "muscles",
+              "indonesian": "otot"
+            },
+            {
+              "word": "sandals",
+              "indonesian": "sandal"
+            },
+            {
+              "word": "performance",
+              "indonesian": "pertunjukan"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Rara say they should save some water?",
+              "options": [
+                "The goat might be thirsty.",
+                "People get careless at the top.",
+                "The bottle leaked in the grass.",
+                "Their uncle wanted it back full."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did the goat do?",
+              "options": [
+                "It followed them to the top.",
+                "It ignored them.",
+                "It ate their eggs.",
+                "It blocked the path."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did their uncle say was the point of the climb?",
+              "options": [
+                "They had climbed the hill.",
+                "They had seen a wild animal.",
+                "They had found the white dot of washing.",
+                "They had raced each other down."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "title": "A Sudden Rain at the Lake",
+          "summary": "Hana and her uncle watch the lake until the weather changes.",
+          "minutes": 3,
+          "word_count": 389,
+          "passage": "The lake was a twenty-minute walk from the guesthouse. Hana and her uncle had planned to sit on the wooden platform and watch the fishermen. The sky was pale when they left. A few clouds sat on the hills, but they did not look serious.\n\nThey rented two cups of hot ginger drink from a stall and carried them carefully. The platform was old. Some boards had been replaced, and those boards were lighter than the others. Hana sat on a darker one and let her feet hang above the water. Small fish gathered under the shade of the platform, waiting for crumbs that nobody offered.\n\nA fisherman in a narrow boat threw a net with a motion that looked easy and was not. The net opened like a flower and sank. He pulled it back almost empty, shrugged, and tried again. Hana's uncle said the man was not failing. He was reading the lake. \"Empty is information,\" he said. \"It tells him where not to stay.\"\n\nThe wind arrived before the rain. It pushed the ginger steam sideways and made the boat knock softly against its rope. Then the hills disappeared. Rain came across the water in a silver sheet. People on the platform laughed and ran for the stall's roof. Hana and her uncle ran too, holding the cups out so they would not spill on their clothes.\n\nUnder the roof, the rain was loud on the tin. The fisherman did not come in at once. He covered his basket, turned the boat, and rowed to shore with his shoulders bent. When he finally stepped under the roof, he shook his head and smiled at no one in particular. \"The lake changed its mind,\" he said.\n\nThey waited. Hana finished the ginger drink, which was no longer hot. Her uncle bought a small bag of fried bananas to share with the people crowded beside them. A child stared at the bag until her uncle offered one. The child's mother nodded her thanks.\n\nWhen the rain thinned, the hills returned, darker than before. The platform shone. Hana walked back onto it and saw the fish still there, as if nothing important had happened. She wrote one line in her phone notes before the screen got wet: the weather can change the plan and leave the place itself untouched.",
+          "vocabulary": [
+            {
+              "word": "platform",
+              "indonesian": "panggung kayu"
+            },
+            {
+              "word": "ginger",
+              "indonesian": "jahe"
+            },
+            {
+              "word": "net",
+              "indonesian": "jala"
+            },
+            {
+              "word": "information",
+              "indonesian": "informasi"
+            },
+            {
+              "word": "tin",
+              "indonesian": "seng"
+            },
+            {
+              "word": "untouched",
+              "indonesian": "tidak tersentuh"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What did Hana's uncle say an empty net tells a fisherman?",
+              "options": [
+                "The lake is closed for the day.",
+                "Where not to stay",
+                "That the ginger drink is ready",
+                "That the rain has already passed"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Where did people go when the rain arrived?",
+              "options": [
+                "Into the fisherman's boat",
+                "Back to the guesthouse at once",
+                "Under the stall's roof",
+                "Onto the lighter boards"
+              ],
+              "answer": 2
+            },
+            {
+              "question": "What was still the same after the rain?",
+              "options": [
+                "The hot ginger drink",
+                "The fish under the platform",
+                "The dry hills",
+                "The empty basket"
+              ],
+              "answer": 1
+            }
+          ]
         }
       ]
     },
@@ -551,6 +1145,204 @@
                 "In Mrs. Widya's porch"
               ],
               "answer": 2
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "title": "The Borrowed Bicycle",
+          "summary": "Farid borrows a bicycle to collect his grandmother's medicine.",
+          "minutes": 3,
+          "word_count": 399,
+          "passage": "Farid needed to get across town before the clinic closed, because his grandmother's medicine was waiting and the last bus had already gone. His own bicycle had a bent wheel. He stood in the lane with the wheel turning in a sad oval and tried to think of another plan.\n\nHis neighbor, Mr. Salim, rolled a bicycle out of a narrow gate. It was old, painted blue, with a bell that worked and a basket that did not. \"Take this,\" Mr. Salim said. \"Bring it back before dark. The front brake is strong. The back brake is a suggestion.\"\n\nFarid thanked him and tested the brakes at the corner. The front brake grabbed so hard he nearly went over the handlebars. He would remember that. He rode toward the main road, then through a market street where he had to walk the bicycle between stalls. A woman selling oranges told him he was blocking her customers. He apologized and moved faster.\n\nAt the clinic, the line was short because it was late. The nurse found the medicine, explained the dose, and made him repeat it. Once in the morning. Once after dinner. With food. Farid said it back. She nodded and taped the paper to the bag so it would not get lost in his pocket.\n\nThe ride home should have been easier. It was not. A light rain began, and the blue bicycle's back brake did exactly what Mr. Salim had promised, which was almost nothing. Farid used the front brake early and gently. He also used his shoe once, and felt foolish, and did not fall. By the time he reached the lane, his shirt was damp and the medicine was dry inside his jacket.\n\nMr. Salim was waiting without pretending he had not been waiting. Farid returned the bicycle, the bell still working, the basket still useless. He explained the brake and the rain. Mr. Salim waved it away. \"You brought it back. You brought the medicine back. That is the borrow completed.\"\n\nFarid's grandmother took her dose with a piece of bread and asked who had been kind. Farid told her the whole route, including the oranges and the shoe. She laughed until she coughed, then told him to drink water. Later he wiped the rain off the blue seat even though the bicycle was already home. It seemed like part of the thank you.",
+          "vocabulary": [
+            {
+              "word": "bent",
+              "indonesian": "bengkok"
+            },
+            {
+              "word": "oval",
+              "indonesian": "oval"
+            },
+            {
+              "word": "brake",
+              "indonesian": "rem"
+            },
+            {
+              "word": "suggestion",
+              "indonesian": "saran"
+            },
+            {
+              "word": "dose",
+              "indonesian": "dosis"
+            },
+            {
+              "word": "completed",
+              "indonesian": "selesai"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Farid need a bicycle that afternoon?",
+              "options": [
+                "His wheel was bent and the last bus had gone.",
+                "Mr. Salim asked him to test the brakes.",
+                "He wanted oranges from the market.",
+                "The clinic had called his sister."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What was wrong with the borrowed bicycle?",
+              "options": [
+                "The bell did not work.",
+                "The back brake barely worked.",
+                "The front wheel was an oval.",
+                "The basket was full of rain."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "How should the medicine be taken?",
+              "options": [
+                "Once at night, without food",
+                "Once in the morning and once after dinner, with food",
+                "Three times before the bus",
+                "Only if the rain stopped"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "title": "The Name in the Margin",
+          "summary": "Ina finds a pencil note in a library book and answers it on her own paper.",
+          "minutes": 3,
+          "word_count": 417,
+          "passage": "Ina liked library books that other people had already loved. A turned-down corner or a faded underline made the book feel less like a new task and more like a conversation. She knew she was not supposed to write in library books. She never did. She only read what was already there.\n\nOn Wednesday she borrowed a novel about a girl who moved to a city by the sea. On page forty, in the margin, someone had written a name in pencil: \"For Lila, who hated endings.\" The handwriting was small and careful. Ina stared at it. It was not a note about the story. It was a note to a person.\n\nShe asked the librarian, Mr. Andra, whether he knew a Lila. He thought for a moment. \"There was a student volunteer with that name two years ago. She shelved books on weekends. I do not have her address. I should not give it to you even if I did.\"\n\n\"I do not need her address,\" Ina said. \"I just wanted to know she was real.\"\n\nMr. Andra smiled. \"Most names in margins are real. That is why they surprise us.\"\n\nIna read the novel slowly. The girl in the story did hate the last chapter. The city flooded, and the ending refused to be tidy. In the final margin there was no more writing, only a tiny star. Ina added nothing. She closed the book and held it for a minute.\n\nThe next week she came back with a plan that did not break the rules. She wrote a short letter on her own paper. It said she had found the note, that she also distrusted tidy endings, and that the book was safe. She did not sign her full address. She signed her first name and the words \"a reader.\" Mr. Andra agreed to keep the letter in the volunteer drawer, in case Lila ever returned.\n\n\"And if she does not?\" Ina asked.\n\n\"Then the letter waits,\" he said. \"Books do that well. Paper can learn the habit.\"\n\nMonths passed. Ina borrowed other novels. She stopped checking the drawer every time, then checked once more in June. The letter was gone. In its place was a postcard of the sea with one sentence on the back: \"I did hate the ending. Thank you for not writing in the book.\" There was no name. Ina did not need one. The margin had started the conversation, and the postcard had finished it without spoiling the page.",
+          "vocabulary": [
+            {
+              "word": "underline",
+              "indonesian": "garis bawah"
+            },
+            {
+              "word": "margin",
+              "indonesian": "tepi halaman"
+            },
+            {
+              "word": "volunteer",
+              "indonesian": "relawan"
+            },
+            {
+              "word": "tidy",
+              "indonesian": "rapi"
+            },
+            {
+              "word": "postcard",
+              "indonesian": "kartu pos"
+            },
+            {
+              "word": "spoiling",
+              "indonesian": "merusak"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What was written in the margin on page forty?",
+              "options": [
+                "For Lila, who hated endings.",
+                "Do not write in this book.",
+                "Return to Mr. Andra.",
+                "The city will flood."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why did Ina write on her own paper?",
+              "options": [
+                "The pencil in the book had faded.",
+                "She was not supposed to write in a library book.",
+                "Mr. Andra asked her to copy the novel.",
+                "Lila had left her a blank postcard."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did Ina find in the drawer in June?",
+              "options": [
+                "Her letter, still waiting",
+                "A postcard thanking her for not writing in the book",
+                "Lila's full address",
+                "The novel with a new ending"
+              ],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "title": "The Last Seat",
+          "summary": "Karim shares a train seat with a woman whose son missed the train.",
+          "minutes": 3,
+          "word_count": 389,
+          "passage": "The evening train was crowded. People stood in the aisle with bags between their feet. Karim held a box of books for his cousin and tried not to hit anyone when the train swayed. He looked down the carriage and saw one empty seat beside an elderly woman. A paper bag sat on it.\n\nHe moved closer. \"Is this seat free?\"\n\nThe woman looked at the bag, then at him, then at the box in his arms. \"It was for my son. He missed the train. Sit, before someone less polite decides for us.\"\n\nKarim sat. The box went on his lap. The woman, who told him her name was Bu Rini, kept one hand on the paper bag as if it still marked a place. She asked what was in the box. He said they were secondhand novels for a small reading room his cousin was starting in a rented garage.\n\n\"A garage,\" she said. \"That is how serious things begin. My son repairs radios in a garage. He was supposed to bring me a part. The part can wait. His excuse will be creative.\"\n\nThey talked as the stations passed. Bu Rini had strong opinions about stories that ended too sweetly. Karim disagreed about one famous book and then realized she had read it more carefully than he had. He admitted it. She looked pleased, not victorious. \"Good,\" she said. \"A reader who can change his mind is still a reader.\"\n\nAt her stop she stood and nearly forgot the paper bag. Karim handed it to her. Inside, he glimpsed an orange and a folded cloth. She took the bag and studied him for a second. \"If the garage ever has a chair that does not wobble, I will visit. I will bring a book you are wrong about.\"\n\n\"Please do,\" Karim said.\n\nThe seat did not stay empty. A tired man took it at once. Karim held the box and watched Bu Rini on the platform, smaller and then gone. He thought about the son who had missed the train, and about rooms that start as garages. When he got off, his arms ached and his head was full. The last seat had been a small kindness with a paper bag on it. He hoped the reading room would have room for that kind of luck.",
+          "vocabulary": [
+            {
+              "word": "aisle",
+              "indonesian": "lorong"
+            },
+            {
+              "word": "swayed",
+              "indonesian": "bergoyang"
+            },
+            {
+              "word": "secondhand",
+              "indonesian": "bekas"
+            },
+            {
+              "word": "sweetly",
+              "indonesian": "dengan manis"
+            },
+            {
+              "word": "wobble",
+              "indonesian": "goyah"
+            },
+            {
+              "word": "kindness",
+              "indonesian": "kebaikan"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why was the seat empty?",
+              "options": [
+                "Bu Rini's son had missed the train.",
+                "Karim had reserved it for the books.",
+                "The train was almost empty.",
+                "A tired man had just left it."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What was inside Karim's box?",
+              "options": [
+                "Radio parts",
+                "Secondhand novels",
+                "Oranges and a folded cloth",
+                "A chair for the garage"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did Bu Rini respect about Karim?",
+              "options": [
+                "He kept the paper bag.",
+                "He could change his mind about a book.",
+                "He repaired radios.",
+                "He stood in the aisle the whole way."
+              ],
+              "answer": 1
             }
           ]
         }
