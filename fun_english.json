@@ -1347,6 +1347,1691 @@
           ]
         }
       ]
+    },
+    {
+      "category_id": 5,
+      "category_name": "Food and Cooking",
+      "level": "Elementary",
+      "list": [
+        {
+          "id": 21,
+          "title": "Soup on a Rainy Day",
+          "summary": "Mira and her father cook vegetable soup and learn to wait.",
+          "minutes": 2,
+          "word_count": 314,
+          "passage": "It rained all morning, so Mira and her father stayed in the kitchen. They decided to make vegetable soup. Mira washed the carrots and the potatoes. Her father cut the onions. The onions made Mira's eyes sting, and she laughed and stepped back.\n\n\"Cut slowly,\" her father said. \"A sharp knife is safer when you pay attention.\"\n\nMira watched the pot. They added water, salt, and the vegetables. Then her father turned the heat down. \"Let it simmer,\" he said. \"If it boils too hard, the potatoes break too soon.\" Mira did not know the word simmer. He showed her the small bubbles that rose gently and did not jump.\n\nWhile they waited, Mira set the table. She put out two bowls, two spoons, and a ladle on a plate. The ladle was big. She liked the way it could hold a whole spoonful of soup and more. She also cut a little bread. The crust was hard, so she pressed the knife down with care.\n\nAfter twenty minutes her father tasted the soup with a clean spoon. He shook his head. \"It needs salt, but only a pinch. We can add more later. We cannot take it out.\" Mira added a pinch and stirred. The second taste was better. The carrots were soft. The potatoes were still in pieces.\n\nThey ate by the window. Rain ran down the glass. The soup was hot, so Mira blew on each spoonful. Her father said that cooking was mostly waiting and tasting. Mira thought about that. She had wanted the soup to be ready at once. The slow pot had done a better job than a rush would have done.\n\nWhen they finished, Mira washed the ladle and the bowls. She left the pot to cool. The rain was still falling, but the kitchen smelled like carrots and pepper, and the afternoon no longer felt cold.",
+          "vocabulary": [
+            {
+              "word": "simmer",
+              "indonesian": "didihkan pelan"
+            },
+            {
+              "word": "ladle",
+              "indonesian": "sendok sayur"
+            },
+            {
+              "word": "pinch",
+              "indonesian": "sejumput"
+            },
+            {
+              "word": "crust",
+              "indonesian": "kerak roti"
+            },
+            {
+              "word": "stirred",
+              "indonesian": "diaduk"
+            },
+            {
+              "word": "boil",
+              "indonesian": "mendidih"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did they stay in the kitchen?",
+              "options": [
+                "It rained all morning.",
+                "The market was closed.",
+                "Mira had a test.",
+                "The stove was new."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What does simmer look like in the pot?",
+              "options": [
+                "Water jumping out of the pot",
+                "Small bubbles that rise gently",
+                "A pot with no heat",
+                "Vegetables still hard and dry"
+              ],
+              "answer": 1
+            },
+            {
+              "question": "Why did they add only a pinch of salt at first?",
+              "options": [
+                "They could add more later, but could not take it out.",
+                "The ladle was too small.",
+                "Mira does not like soup.",
+                "The bread was already salty."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "title": "The First Omelette",
+          "summary": "Danu learns to cook an omelette without rushing the pan.",
+          "minutes": 2,
+          "word_count": 304,
+          "passage": "Danu wanted eggs for breakfast, and his mother was still asleep after a night shift. He decided to try an omelette by himself. He had watched her many times. Watching and doing were not the same thing.\n\nHe cracked two eggs into a bowl. A small piece of shell fell in. He chased it with a spoon and finally caught it. Then he added a splash of milk and a little salt. He beat the eggs with a fork until the yellow and the white became one color.\n\nThe pan was the difficult part. He put it on the stove and waited. His mother always said the pan should be hot before the eggs went in, but not so hot that the butter turned black. Danu dropped in a small piece of butter. It melted and foamed. That looked right, so he poured in the eggs.\n\nAt first he stirred too much. The eggs broke into crumbs. He stopped and let the bottom set. With a flat spoon he lifted one edge. Wet egg ran underneath. He waited again. The top was still soft when he folded the omelette in half. It was not a perfect half-moon. One side was thicker. He slid it onto a plate anyway.\n\nHis mother came into the kitchen and looked at the plate. \"You made this?\" she asked.\n\n\"Yes. The shape is wrong.\"\n\n\"The shape is not the meal,\" she said. She tasted a corner. \"The inside is cooked, and it is not burnt. That is a real omelette.\" She showed him how to tilt the pan so the wet part ran to the edge next time. Danu washed the bowl and the fork. He was hungry, proud, and already planning a second try on Sunday, when he would not have to hunt for a piece of shell.",
+          "vocabulary": [
+            {
+              "word": "omelette",
+              "indonesian": "telur dadar gulung"
+            },
+            {
+              "word": "shell",
+              "indonesian": "cangkang"
+            },
+            {
+              "word": "splash",
+              "indonesian": "sedikit cipratan"
+            },
+            {
+              "word": "foamed",
+              "indonesian": "berbusa"
+            },
+            {
+              "word": "folded",
+              "indonesian": "dilipat"
+            },
+            {
+              "word": "tilt",
+              "indonesian": "dimiringkan"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Danu cook alone?",
+              "options": [
+                "His mother was still asleep after a night shift.",
+                "The school kitchen was closed.",
+                "He had lost the fork.",
+                "His father took the pan to work."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What happened when he stirred too much?",
+              "options": [
+                "The butter turned to ice.",
+                "The eggs broke into crumbs.",
+                "The shell disappeared.",
+                "The pan cooled down."
+              ],
+              "answer": 1
+            },
+            {
+              "question": "What did his mother say mattered more than the shape?",
+              "options": [
+                "That the inside was cooked and not burnt",
+                "That he used three eggs",
+                "That the plate was warm",
+                "That he finished before sunrise"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "title": "Banana Pancakes",
+          "summary": "Sinta and her little brother make pancakes for Sunday breakfast.",
+          "minutes": 2,
+          "word_count": 313,
+          "passage": "On Sunday Sinta was in charge of breakfast because her parents had gone to the early market. Her little brother, Rio, wanted pancakes. They had two ripe bananas, an egg, flour, and a little milk. Sinta tied on an apron and told Rio he could stir if he kept the spoon inside the bowl.\n\nShe mashed the bananas with a fork until the lumps were small. Rio wanted them smoother. \"A few lumps are fine,\" Sinta said. \"They will taste like banana, not like paste.\" She added the egg and the milk, then the flour. Rio stirred in one direction, the way she showed him, so the flour would not fly. A little still landed on his cheek. He left it there like a badge.\n\nThe first pancake was a test. Sinta poured a small circle into the pan. It stuck. She had forgotten the oil. She scraped the piece out, wiped the pan, and added a few drops. The second pancake bubbled on top. When the bubbles popped and stayed open, she slid a spoon under the edge and flipped it. The cooked side was golden. Rio clapped as if she had won a race.\n\nThey made six pancakes. Two were darker than the others. Sinta did not hide them. \"Those are mine,\" she said. \"The cook eats the experiments.\" They ate at the counter with sliced banana on top and a thin line of honey. Rio asked for more honey. Sinta shook her head. \"Sweet is louder than banana if you pour too much.\"\n\nTheir parents came home to a warm kitchen and two full children. Sinta showed the empty bowl and the clean pan. Her mother touched the apron string and smiled. \"Next Sunday I will be your assistant,\" she said. Rio was already telling the story of the stuck pancake, which had become funnier now that everyone was full.",
+          "vocabulary": [
+            {
+              "word": "mashed",
+              "indonesian": "dihaluskan"
+            },
+            {
+              "word": "lumps",
+              "indonesian": "gumpalan"
+            },
+            {
+              "word": "apron",
+              "indonesian": "celemek"
+            },
+            {
+              "word": "bubbled",
+              "indonesian": "bergelembung"
+            },
+            {
+              "word": "flipped",
+              "indonesian": "dibalik"
+            },
+            {
+              "word": "honey",
+              "indonesian": "madu"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why was Sinta in charge of breakfast?",
+              "options": [
+                "Her parents had gone to the early market.",
+                "Rio was sick.",
+                "The stove at school was broken.",
+                "They had no bananas."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why did the first pancake stick?",
+              "options": [
+                "She forgot the oil.",
+                "The bananas were not ripe.",
+                "Rio used too much honey.",
+                "The flour was in the fridge."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Which pancakes did Sinta keep for herself?",
+              "options": [
+                "The two darker ones",
+                "The ones with the most honey",
+                "Rio's favorite two",
+                "The ones their mother made"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "title": "The Salty Stew",
+          "summary": "A busy evening teaches Farah to taste before she serves.",
+          "minutes": 2,
+          "word_count": 324,
+          "passage": "Farah offered to cook stew while her aunt rested on the sofa. The aunt had a cold, and the house was quiet except for the radio. Farah felt grown-up. She cut chicken into pieces, washed the rice, and chopped long beans. She knew the order because she had helped on other nights.\n\nThe trouble started with the sauce. She poured soy sauce, then chili, then more soy sauce because the color looked pale. She was talking to her aunt through the doorway and not looking at the spoon. When she finally stirred the pot, the smell was strong in a sharp way.\n\nShe tasted it. Her mouth went tight. The stew was too salty. She stood very still, as if the pot might notice her fear. Throwing it away would waste the chicken. Adding water might make it thin. She turned the heat down and thought.\n\nOn the counter there were two potatoes and a bowl of leftover rice. She peeled the potatoes, cut them into chunks, and slid them into the stew. Potatoes can take in salt. She also added a cup of plain water and a little more long beans, which had no sauce on them yet. Then she waited and tasted again with a fresh spoon.\n\nIt was still salty, but it was no longer a mistake that hurt. The potatoes had softened. She served the stew over rice in two bowls, with cucumber on the side. Cucumber is cool and clean. It helped.\n\nHer aunt ate slowly and then nodded. \"You saved it.\"\n\n\"I was not watching the soy sauce,\" Farah said.\n\n\"Then today you learned the real rule,\" her aunt said. \"Taste before you serve, and taste before you pour the second time.\" Farah wrote that sentence on a scrap of paper and stuck it inside the recipe notebook. The stew was not the best one in the family, but it was hers, and nobody went to bed hungry.",
+          "vocabulary": [
+            {
+              "word": "stew",
+              "indonesian": "semur"
+            },
+            {
+              "word": "chopped",
+              "indonesian": "dicincang"
+            },
+            {
+              "word": "salty",
+              "indonesian": "asin"
+            },
+            {
+              "word": "peeled",
+              "indonesian": "dikupas"
+            },
+            {
+              "word": "chunks",
+              "indonesian": "potongan besar"
+            },
+            {
+              "word": "scrap",
+              "indonesian": "carik kertas"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why was the stew too salty?",
+              "options": [
+                "Farah poured soy sauce a second time without looking.",
+                "The potatoes were old.",
+                "Her aunt added chili.",
+                "The rice was cooked in seawater."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "How did Farah make the stew less salty?",
+              "options": [
+                "She added potatoes, water, and more long beans.",
+                "She threw the chicken away.",
+                "She only served cucumber.",
+                "She boiled a new pot of rice in the stew."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What rule did her aunt want her to remember?",
+              "options": [
+                "Taste before you serve, and before you pour again.",
+                "Never cook when the radio is on.",
+                "Always rest on the sofa.",
+                "Cucumber can replace salt."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "title": "Lunch in a Box",
+          "summary": "Yusuf packs a lunch that will still taste good at noon.",
+          "minutes": 2,
+          "word_count": 324,
+          "passage": "Yusuf's school lunch was often warm rice that had become dry by noon. On Monday he asked his mother if he could pack the box himself. She agreed, on one condition. He had to think about the hours between the kitchen and the classroom, not only about what tasted good at six in the morning.\n\nHe started with rice that had cooled a little, so steam would not turn the lid wet. He added a boiled egg, a few cucumber sticks, and chicken that had been fried the night before. The chicken was cold. That was all right. A thermos of hot soup would have been heavy, and he had no thermos.\n\nHis mother watched without taking the spoon. \"What will be soggy?\" she asked.\n\nYusuf looked at the box. The cucumber was touching the rice. By noon it would leak water. He moved the cucumber into a small paper cup and set the cup in the corner. He also put the egg on top, not under the chicken, so the shell would not get oily. The shell was still on. He would peel it at school.\n\nHe added one small chili, wrapped in a bit of paper, because he liked a little heat and his friend Omar did not. If the chili touched everything, Omar could not share. Yusuf wanted sharing to stay possible.\n\nAt noon the rice was not hot, but it was not dry either. The cucumber still snapped. Omar took a piece of chicken and left the chili alone. Yusuf peeled the egg in a napkin and felt oddly proud of a meal that had survived a bag, a bus, and a morning of math.\n\nOn the way home he told his mother which parts had worked. She nodded. \"A lunch box is a small plan for the future,\" she said. \"You packed for the person you would be at noon, not only for the person you were at dawn.\"",
+          "vocabulary": [
+            {
+              "word": "thermos",
+              "indonesian": "termos"
+            },
+            {
+              "word": "soggy",
+              "indonesian": "lembek karena air"
+            },
+            {
+              "word": "leak",
+              "indonesian": "bocor"
+            },
+            {
+              "word": "oily",
+              "indonesian": "berminyak"
+            },
+            {
+              "word": "peel",
+              "indonesian": "mengupas"
+            },
+            {
+              "word": "snapped",
+              "indonesian": "renyah saat digigit"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What condition did Yusuf's mother set?",
+              "options": [
+                "He had to plan for noon, not only for early morning.",
+                "He had to buy a thermos.",
+                "He had to cook a new chicken.",
+                "He had to share with the teacher."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why did he put the cucumber in a paper cup?",
+              "options": [
+                "So its water would not make the rice wet",
+                "Because Omar hated cucumber",
+                "So the egg would stay hot",
+                "Because the lid was broken"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why was the chili wrapped separately?",
+              "options": [
+                "So Omar could share the lunch without eating chili",
+                "So the egg would taste spicy",
+                "Because the school banned napkins",
+                "So the chicken would stay crispy"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 6,
+      "category_name": "Travel",
+      "level": "Pre-Intermediate",
+      "list": [
+        {
+          "id": 26,
+          "title": "The Stop We Missed",
+          "summary": "Lina and her uncle ride past their station and solve it calmly.",
+          "minutes": 3,
+          "word_count": 329,
+          "passage": "Lina and her uncle were going to her cousin's house in the next town. They had tickets, a bag of mangoes, and a paper with the station name written in large letters. Lina held the paper on her lap. She was sure she would not miss the stop.\n\nThe train was crowded and warm. A man near them played music on his phone until another passenger asked him to turn it down. Lina watched the stations and matched them to the list on the wall. After the third stop she began to feel sleepy. Her uncle was reading. The mango bag slid against her foot.\n\nShe woke up because the train jerked. The sign outside the window was not the name on her paper. It was the stop after that. She stood up so fast that she hit her head lightly on the rack. \"We passed it,\" she said.\n\nHer uncle looked out, folded his page, and did not scold her. \"Then we get off at the next stop and come back one station. Missing a stop is a problem. Panicking makes a second problem.\"\n\nThey got off, crossed the platform, and asked a staff member which train returned. The woman pointed to a clock and a track. They had twelve minutes. Lina bought two small bottles of water because her mouth was dry from worry. She also checked the paper again and circled the right name.\n\nOn the return train she stayed standing near the door. She did not trust the seat. When the correct sign appeared, she called it out before the train stopped. Her uncle smiled. \"Good. You are the conductor now.\"\n\nHer cousin was waiting and was only a little surprised. Lina told the story without hiding the part where she had fallen asleep. The mangoes were still good. The afternoon was shorter, but they had arrived, and Lina had learned that a written name is useful only if someone is awake to read it.",
+          "vocabulary": [
+            {
+              "word": "jerked",
+              "indonesian": "tersentak"
+            },
+            {
+              "word": "platform",
+              "indonesian": "peron"
+            },
+            {
+              "word": "track",
+              "indonesian": "jalur rel"
+            },
+            {
+              "word": "scold",
+              "indonesian": "memarahi"
+            },
+            {
+              "word": "conductor",
+              "indonesian": "kondektur"
+            },
+            {
+              "word": "circled",
+              "indonesian": "dilingkari"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did they miss the station?",
+              "options": [
+                "Lina fell asleep and did not watch the signs.",
+                "The train skipped their town.",
+                "They had the wrong tickets.",
+                "The mangoes blocked the door."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did they do next?",
+              "options": [
+                "They got off and took a train back one station.",
+                "They walked the whole way.",
+                "They called the cousin to drive to the city.",
+                "They stayed on until the last stop."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Lina do on the return train?",
+              "options": [
+                "She stood near the door and watched for the sign.",
+                "She slept again.",
+                "She played music on her phone.",
+                "She hid the paper in the bag."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "title": "A Map with a Fold",
+          "summary": "Arman follows a paper map and learns to ask earlier.",
+          "minutes": 2,
+          "word_count": 310,
+          "passage": "Arman arrived in a new district with a paper map his brother had drawn. The lines were clear at home. On the street they were less clear, because a fold crossed the market and hid one lane. He turned the paper, then turned his body, and still was not sure which way was north.\n\nHe walked for ten minutes and recognized nothing. A school gate looked like the school on the map, but the name was different. He did not want to look lost. He kept walking, which is a good way to become more lost. The sun was hot. His bag strap rubbed his shoulder.\n\nAt a drink cart he finally stopped. The seller was slicing limes. Arman showed her the map and pointed at the fold. \"I am trying to reach this mosque,\" he said. \"I think I passed the lane.\"\n\nShe wiped her hands and turned the map so the main road matched the road in front of them. \"You are not far. You are facing the wrong edge. Walk back to the blue gate, then left. Ignore the fold. Your brother drew the market too wide.\"\n\nArman thanked her and bought a lime drink because the help had been worth more than the drink, and he wanted to pay for something. He found the blue gate. He turned left. The lane was narrow, with laundry above his head, and then the mosque was there, pale and quiet.\n\nHis brother's friend was waiting on the steps. \"You are late,\" he said, not unkindly.\n\n\"The map had a fold, and I trusted it longer than I should have,\" Arman said.\n\nThat evening he drew the correct turn on the back of the paper and wrote the seller's landmark: blue gate, then left. A map is a help, not a promise. The street itself is allowed to correct it.",
+          "vocabulary": [
+            {
+              "word": "fold",
+              "indonesian": "lipatan"
+            },
+            {
+              "word": "district",
+              "indonesian": "kawasan"
+            },
+            {
+              "word": "strap",
+              "indonesian": "tali tas"
+            },
+            {
+              "word": "landmark",
+              "indonesian": "penanda tempat"
+            },
+            {
+              "word": "mosque",
+              "indonesian": "masjid"
+            },
+            {
+              "word": "narrow",
+              "indonesian": "sempit"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What was wrong with the map?",
+              "options": [
+                "A fold hid a lane, and the market was drawn too wide.",
+                "It was written in another language.",
+                "The mosque was not on it.",
+                "Rain had washed off the lines."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Who helped Arman?",
+              "options": [
+                "A seller at a drink cart",
+                "A teacher at the school gate",
+                "His brother on the phone",
+                "A conductor"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What landmark did he write down?",
+              "options": [
+                "Blue gate, then left",
+                "The lime cart only",
+                "The school with the wrong name",
+                "The laundry on the right"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "title": "The Night Bus",
+          "summary": "Putri takes an overnight bus and keeps her bag safe.",
+          "minutes": 2,
+          "word_count": 325,
+          "passage": "Putri had never taken an overnight bus alone. She was going to her sister's city for a wedding, and the ticket was cheaper after nine. Her father walked her to the seat, checked the number twice, and gave her three rules. Keep the bag on your front. Do not tell strangers your full address. Message when the bus leaves, and message when it arrives.\n\nThe seat was by the window. A woman in the next seat was already wrapped in a scarf and looked ready to sleep. Putri put her small bag against her stomach and her larger bag under her legs, not in the overhead rack. The overhead felt too far away for a night. She texted her father a photo of the seat number. Then the lights dimmed.\n\nThe bus stopped at a quiet terminal around midnight. Many passengers got off to buy food. Putri was hungry, but she remembered a story about people who stepped off and watched the bus leave. She stayed in her seat and ate the bread she had packed. The woman beside her woke, smiled, and offered a mint. Putri took it and said thank you. They did not exchange addresses. That felt right.\n\nShe slept in pieces. Once she woke because the bus slowed for roadwork. Orange lights passed the window. Her bag was still against her stomach. She checked the time and sent a short message: still moving. Her father replied with one word: good.\n\nAt dawn the city appeared as warehouses, then houses, then a station with a bright sign. Putri waited until the bus fully stopped before she stood. Her sister was beyond the gate, waving with both hands. Putri's legs were stiff and her hair was a mess. She did not care. She had followed the three rules, eaten her own bread, and arrived with the same bags she had carried on. The wedding clothes were wrinkled. The person inside them was fine.",
+          "vocabulary": [
+            {
+              "word": "overnight",
+              "indonesian": "semalaman"
+            },
+            {
+              "word": "dimmed",
+              "indonesian": "diredupkan"
+            },
+            {
+              "word": "terminal",
+              "indonesian": "terminal"
+            },
+            {
+              "word": "overhead",
+              "indonesian": "rak di atas kepala"
+            },
+            {
+              "word": "roadwork",
+              "indonesian": "perbaikan jalan"
+            },
+            {
+              "word": "wrinkled",
+              "indonesian": "kusut"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Putri stay on the bus at midnight?",
+              "options": [
+                "She was afraid the bus might leave without her.",
+                "She did not like mint.",
+                "The terminal was closed.",
+                "Her sister told her to sleep."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Where did she keep her small bag?",
+              "options": [
+                "Against her stomach",
+                "In the overhead rack",
+                "With the driver",
+                "Under the woman's scarf"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What were two of her father's rules?",
+              "options": [
+                "Keep the bag in front, and do not share her full address.",
+                "Buy food at every stop, and sit in the aisle.",
+                "Sleep the whole way, and call every hour.",
+                "Put the wedding clothes in the rack."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "title": "Waiting for the Ferry",
+          "summary": "A delay at the harbor teaches Bima how to wait without wasting the time.",
+          "minutes": 2,
+          "word_count": 315,
+          "passage": "The ferry was supposed to leave at ten. At ten the board still said boarding soon. At ten thirty it said delayed. Bima was traveling with his class to an island museum, and thirty students on a concrete bench make a delay feel longer. Some of them complained. A few opened snacks they had planned to save.\n\nTheir teacher, Ms. Diah, did not pretend the news was good. \"We cannot move the boat,\" she said. \"We can decide what kind of waiting this will be.\" She split them into small jobs. One group counted heads. One group refilled bottles at the tap. Bima's group read the safety poster and had to explain it back without looking.\n\nThe poster said to notice the life vests, to let passengers off before getting on, and not to lean on the rail. Bima already knew those lines. Saying them out loud made them feel less like decoration. A harbor worker heard them and nodded. \"Most people read that poster after the boat moves,\" he said. \"You are early, which is the right time.\"\n\nAn hour later the board changed to boarding. The class stood, then sat again, because rushing a queue only ties it in knots. They boarded in pairs. Bima found a seat inside, away from the spray. The engine smell was strong. When the ferry finally pulled from the dock, the students cheered as if they had repaired the engine themselves.\n\nAt the museum Ms. Diah asked what the delay had cost and what it had given. It had cost an hour and a little patience. It had given them a safety talk they might have skipped, and a story they would tell better than the exhibits. Bima wrote in his worksheet: waiting is empty only if you refuse to use it. The sentence was not on the poster. He thought the harbor worker would have agreed.",
+          "vocabulary": [
+            {
+              "word": "ferry",
+              "indonesian": "kapal feri"
+            },
+            {
+              "word": "delayed",
+              "indonesian": "tertunda"
+            },
+            {
+              "word": "harbor",
+              "indonesian": "pelabuhan"
+            },
+            {
+              "word": "life vests",
+              "indonesian": "rompi pelampung"
+            },
+            {
+              "word": "queue",
+              "indonesian": "antrean"
+            },
+            {
+              "word": "dock",
+              "indonesian": "dermaga"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What did the board say at ten thirty?",
+              "options": [
+                "Delayed",
+                "Cancelled",
+                "Arrived",
+                "Sold out"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Bima's group have to do?",
+              "options": [
+                "Explain the safety poster without looking at it",
+                "Repair the engine",
+                "Buy snacks for the class",
+                "Count the life vests in the water"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why did the class sit again when boarding was called?",
+              "options": [
+                "Rushing the queue would only tangle it.",
+                "The museum had closed.",
+                "Ms. Diah lost the tickets.",
+                "The dock was too wet."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "title": "Directions from a Stranger",
+          "summary": "Nadia checks directions twice before she walks the last streets.",
+          "minutes": 2,
+          "word_count": 288,
+          "passage": "Nadia had the hotel name, a booking number, and a phone that was about to die. The map on the screen showed ten minutes on foot. She started walking, then the phone went black. She stood under a tree and felt the afternoon get larger.\n\nA man at a food stall saw her looking from the dead screen to the street. \"Are you lost, or only paused?\" he asked.\n\n\"The hotel is Garden House,\" she said. \"My phone stopped.\"\n\nHe pointed down the avenue. \"Go straight until the pharmacy with the green cross. Turn right. The hotel is the second gate, white, with a small tree in a pot. If you reach the bridge, you have gone too far.\"\n\nNadia repeated it. Straight, green cross, right, second gate, not the bridge. She thanked him. Then she asked a woman waiting at the pharmacy, because one clear direction is good and two that match are better. The woman gave the same turns. Nadia felt her shoulders drop.\n\nThe white gate was where they had said. A small tree really did stand in a pot, looking a little tired. The clerk found her booking and smiled at the dead phone. \"You can charge it here. A lot of guests arrive with a black screen and a good story.\"\n\nNadia wrote the directions on the back of her receipt before she forgot the green cross. She also bought water from the stall on the way out the next morning and told the man that the pot tree was real. He laughed. \"I have never stayed there. I only aim people at it.\" That was enough. A stranger's directions had been a loan of knowledge, and she had returned them as thanks.",
+          "vocabulary": [
+            {
+              "word": "booking",
+              "indonesian": "pemesanan"
+            },
+            {
+              "word": "avenue",
+              "indonesian": "jalan besar"
+            },
+            {
+              "word": "pharmacy",
+              "indonesian": "apotek"
+            },
+            {
+              "word": "clerk",
+              "indonesian": "petugas meja depan"
+            },
+            {
+              "word": "receipt",
+              "indonesian": "struk"
+            },
+            {
+              "word": "charge",
+              "indonesian": "mengisi daya"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Nadia stop under the tree?",
+              "options": [
+                "Her phone battery died.",
+                "The hotel was closed.",
+                "She missed the ferry.",
+                "The map showed the wrong city."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What would mean she had walked too far?",
+              "options": [
+                "Reaching the bridge",
+                "Seeing a green cross",
+                "Finding a white gate",
+                "Passing the food stall"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why did she ask a second person?",
+              "options": [
+                "Two matching directions were safer than one.",
+                "The man refused to speak.",
+                "The clerk told her to leave.",
+                "She wanted a longer walk."
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 7,
+      "category_name": "Work and Money",
+      "level": "Intermediate",
+      "list": [
+        {
+          "id": 31,
+          "title": "The First Saturday Shift",
+          "summary": "Raka learns the rhythm of a small copy shop.",
+          "minutes": 2,
+          "word_count": 311,
+          "passage": "Raka's first paid job was a Saturday shift at a copy shop near the campus. The owner, Mr. Halim, showed him the copier, the paper drawers, and the price list. \"Students will ask you to decide their homework,\" Mr. Halim said. \"You do not. You copy what they give you, you count the pages, and you say the price before you press start.\"\n\nThe first customer wanted forty copies of a thin packet. Raka loaded the paper the wrong way, and the machine chewed one sheet. He felt his face heat. Mr. Halim pulled the sheet out and said, \"Again, slower. The machine is patient if you are.\" The second try worked. Raka stapled the packets, took the money, and gave a receipt.\n\nAt noon a girl asked him to enlarge a poster that was almost the size of the glass. He measured it, checked the price list, and told her the cost before he began. She winced, then agreed. Halfway through, the ink looked pale. Raka stopped and called Mr. Halim instead of hoping she would not notice. They changed the cartridge. The poster came out clean. She thanked him for stopping.\n\nBetween customers Raka swept paper scraps and learned which drawer held the colored sheets. He also learned not to lean on the counter as if he were waiting for a friend. A shop is a small stage. People relax when the person behind the counter looks ready.\n\nAt closing, Mr. Halim counted the cash with him. The total matched the receipts, except for one missing staple box, which they found under a folder. \"You made a jammed page and a good decision,\" Mr. Halim said. \"The decision matters more. Come back next Saturday if your legs still agree.\" Raka's legs were tired. He agreed anyway. He liked being trusted with a machine, a price, and someone else's paper.",
+          "vocabulary": [
+            {
+              "word": "shift",
+              "indonesian": "giliran kerja"
+            },
+            {
+              "word": "receipt",
+              "indonesian": "kuitansi"
+            },
+            {
+              "word": "enlarge",
+              "indonesian": "memperbesar"
+            },
+            {
+              "word": "cartridge",
+              "indonesian": "kartrid tinta"
+            },
+            {
+              "word": "stapled",
+              "indonesian": "dijepit dengan staples"
+            },
+            {
+              "word": "jammed",
+              "indonesian": "macet"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What was Raka told not to do for customers?",
+              "options": [
+                "Decide their homework",
+                "Count the pages",
+                "Say the price first",
+                "Give a receipt"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why did he stop the poster job halfway?",
+              "options": [
+                "The ink looked pale.",
+                "The girl changed her mind.",
+                "The shop was closing.",
+                "He could not find the price list."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What matched at closing?",
+              "options": [
+                "The cash and the receipts",
+                "The colored paper and the staple box",
+                "His hours and the campus bell",
+                "The poster and the packet"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "title": "Coins in a Jar",
+          "summary": "Dina separates spending money from bus fare and watches the jar grow.",
+          "minutes": 2,
+          "word_count": 302,
+          "passage": "Dina started a jar because her money disappeared in pieces. A drink here, a sticker there, a snack she did not remember buying. None of the pieces felt large. Together they ate the bus fare she needed on Friday.\n\nShe labeled two envelopes and one jar. The first envelope was transport. The second was lunch. The jar was for a pair of shoes she wanted, and it received only what was left after the envelopes were full. Her brother laughed and called it a bank with no guard. Dina did not mind the joke. A system can look silly and still work.\n\nThe first week was annoying. She had to think before she bought a cold drink. Sometimes she bought it anyway and wrote the amount on a paper taped to the jar. The paper was not there to shame her. It was there so the money would have a story. By Wednesday she could see that drinks were her leak. She did not ban them. She allowed two a week, paid from a third, smaller envelope she called extra.\n\nOn Friday the transport envelope still had the fare. That had not happened in a month. Dina stood at the bus stop and felt richer with the same total she used to have. The difference was that the total had jobs.\n\nAfter six weeks the jar held enough for the shoes, with a little left over. She did not rush to the shop. She checked the price on two visits, in case the first price had been a mood. The second price matched. She bought the shoes and kept the jar. Her brother stopped laughing when he asked to copy the envelopes for a school trip. Dina lent him the labels and one rule: fill the needs before you feed the wishes.",
+          "vocabulary": [
+            {
+              "word": "fare",
+              "indonesian": "ongkos"
+            },
+            {
+              "word": "envelopes",
+              "indonesian": "amplop"
+            },
+            {
+              "word": "leak",
+              "indonesian": "kebocoran pengeluaran"
+            },
+            {
+              "word": "ban",
+              "indonesian": "melarang"
+            },
+            {
+              "word": "left over",
+              "indonesian": "sisa"
+            },
+            {
+              "word": "wishes",
+              "indonesian": "keinginan"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What problem started the jar?",
+              "options": [
+                "Small spends were using up her bus fare.",
+                "Her brother stole the shoes.",
+                "The bank closed her account.",
+                "Lunch at school became free."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Dina fill first?",
+              "options": [
+                "Transport and lunch",
+                "The shoe jar",
+                "Her brother's trip",
+                "A drink every day"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What rule did she share with her brother?",
+              "options": [
+                "Fill needs before wishes.",
+                "Never write amounts down.",
+                "Buy shoes before you check the price.",
+                "Ban every cold drink."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "title": "The Market Cash Box",
+          "summary": "Hana helps her uncle balance the cash box after a busy morning.",
+          "minutes": 2,
+          "word_count": 293,
+          "passage": "Hana's uncle sold fried snacks from a cart, and on Sunday the line never really ended. Hana's job was the cash box. She took notes and coins, gave change, and kept a tick mark for each portion. Her uncle cooked. If both of them tried to do both jobs, someone would be burned or someone would be short.\n\nBy eleven her hands smelled like metal. A customer paid with a large note for a small bag, and Hana almost gave change for the wrong amount. She caught herself, said \"one moment,\" and counted again on the cart's wooden edge where the customer could see. The customer nodded. People relax when the count is visible.\n\nA boy tried to leave with a bag he had not paid for, not sneaking, just forgetting, because his friends were calling. Hana called him back in a voice that was firm and not angry. He returned, embarrassed, and paid. Her uncle did not add a speech. The payment was the ending.\n\nAt two they closed the lid and sat on the curb. Hana added the tick marks and multiplied by the price. Then she counted the cash. The first count was short by the price of three portions. Her stomach dropped. She counted again, separating notes from coins. A folded note was stuck to the lid. With that note, the total matched.\n\nHer uncle tapped the box. \"The mistake that scares you is the one you hunt. The mistake that ruins a stall is the one you hide.\" He paid her the amount they had agreed, plus a snack she did not have to tick. On the ride home Hana kept thinking about the visible count. Honesty, she decided, is easier when both people can see the numbers.",
+          "vocabulary": [
+            {
+              "word": "change",
+              "indonesian": "uang kembalian"
+            },
+            {
+              "word": "portion",
+              "indonesian": "porsi"
+            },
+            {
+              "word": "short",
+              "indonesian": "kurang"
+            },
+            {
+              "word": "visible",
+              "indonesian": "kelihatan"
+            },
+            {
+              "word": "multiplied",
+              "indonesian": "dikalikan"
+            },
+            {
+              "word": "folded",
+              "indonesian": "terlipat"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Hana and her uncle split the work?",
+              "options": [
+                "So nobody would be burned or the cash would not come up short",
+                "Because Hana did not know the prices",
+                "Because the cart had two lids",
+                "Because Sunday was a holiday from cooking"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why did she count the large note where the customer could see?",
+              "options": [
+                "A visible count helps people relax.",
+                "The curb was the only flat place.",
+                "Her uncle told her to hide the notes.",
+                "The boy had taken the box."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why was the first cash count short?",
+              "options": [
+                "A folded note was stuck to the lid.",
+                "Three customers never paid.",
+                "Hana had lost the tick marks.",
+                "The price had changed at noon."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "title": "A Shift that Ran Late",
+          "summary": "Imran stays late at the warehouse and learns to say what the extra time is worth.",
+          "minutes": 2,
+          "word_count": 292,
+          "passage": "Imran worked three evenings a week at a warehouse that packed online orders. The shift was supposed to end at nine. On Thursday a delivery van arrived late, and the supervisor asked the team to stay. Some workers groaned. Imran stayed quiet and kept wrapping boxes, because the request sounded temporary.\n\nAt nine thirty they were still there. At ten the line of boxes had shrunk, but not enough. Imran's bus would stop running at ten thirty. He found the supervisor between two shelves.\n\n\"I can stay until twenty past,\" he said. \"After that I have no bus, and a taxi costs more than the extra hour pays. If you need me longer, I need the taxi covered or a different task tomorrow.\"\n\nHe was surprised by his own voice. It shook once and then held. The supervisor looked tired, not insulted. \"Twenty past is fair. I should have said the end time when I asked.\" She wrote his name on a list for extra pay and told him to leave at twenty past even if the last table was unfinished.\n\nImran worked hard until then. He did not stretch the minutes, and he did not leave early. On the bus he texted his mother so she would not worry. His hands were dusty. His sentence at the shelves kept replaying. He had not refused the work. He had priced it.\n\nThe next evening the supervisor started the shift by saying, \"If we run late, the latest finish is nine forty, and the late bus is covered.\" People stood a little straighter. Imran wrapped the first box and felt something he had not felt on Thursday: the time had edges. Work is easier to give when everyone can see where it stops.",
+          "vocabulary": [
+            {
+              "word": "warehouse",
+              "indonesian": "gudang"
+            },
+            {
+              "word": "supervisor",
+              "indonesian": "pengawas"
+            },
+            {
+              "word": "temporary",
+              "indonesian": "sementara"
+            },
+            {
+              "word": "wrapped",
+              "indonesian": "dibungkus"
+            },
+            {
+              "word": "insulted",
+              "indonesian": "tersinggung"
+            },
+            {
+              "word": "edges",
+              "indonesian": "batas"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did Imran speak to the supervisor?",
+              "options": [
+                "Staying too late would make him miss the bus.",
+                "He wanted to leave at nine without wrapping.",
+                "The van had his personal package.",
+                "He was already on the taxi list."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did he ask for if they needed him longer?",
+              "options": [
+                "The taxi covered, or a different task the next day",
+                "A new job title",
+                "The whole Friday off",
+                "Double snacks"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What changed the next evening?",
+              "options": [
+                "The supervisor announced a latest finish and a covered late bus.",
+                "Imran refused every extra minute.",
+                "The warehouse closed at noon.",
+                "Nobody wrapped boxes."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "title": "The Notice on the Board",
+          "summary": "Sari applies for a library helper job and prepares one honest answer.",
+          "minutes": 2,
+          "word_count": 308,
+          "passage": "A notice on the school board offered a small wage for two library helpers after class. Sari wanted it. She liked the library, and she was saving for a camera lens. Wanting was not the same as being ready. The notice asked for a short letter and one example of a time she had been careful with someone else's things.\n\nShe almost invented a grand story. Then she remembered the class tablets. Last month she had been the student who collected them, wiped them, and noticed that one would not charge. She had labeled it and told the teacher before the next class, instead of putting it back in the cupboard and hoping. The tablet was repaired. The story was small. It was also true.\n\nShe wrote the letter in plain sentences. She said she could shelve books, stay until four, and ask when she did not know a title. She did not claim to love silence more than anyone else. Mrs. Dewi, the librarian, read applications at lunch. Sari saw her own paper in the stack and looked away, as if staring might wrinkle it.\n\nThe next day Mrs. Dewi called two names. Sari was one. The other was a boy who had once repaired a torn page with tape that did not yellow. Mrs. Dewi said she was not hiring the loudest love of books. She was hiring people who returned things in a state another person could use.\n\nThe wage was modest. The work was specific: twenty minutes of shelving, ten minutes of tables, and a list of damaged books. Sari did the first afternoon with sweaty hands and a careful eye. When she found a novel filed under the wrong letter, she moved it and told Mrs. Dewi. The camera lens was still far away. The habit that could buy it had already started.",
+          "vocabulary": [
+            {
+              "word": "wage",
+              "indonesian": "upah"
+            },
+            {
+              "word": "notice",
+              "indonesian": "pengumuman"
+            },
+            {
+              "word": "applications",
+              "indonesian": "lamaran"
+            },
+            {
+              "word": "shelve",
+              "indonesian": "menata di rak"
+            },
+            {
+              "word": "modest",
+              "indonesian": "sederhana"
+            },
+            {
+              "word": "damaged",
+              "indonesian": "rusak"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What example did Sari use in her letter?",
+              "options": [
+                "She reported a tablet that would not charge.",
+                "She invented a story about saving a camera.",
+                "She said she loved silence more than anyone.",
+                "She had worked at the copy shop."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What kind of helper did Mrs. Dewi want?",
+              "options": [
+                "Someone who returned things ready for the next person",
+                "The student who spoke most about books",
+                "Only people who owned cameras",
+                "Someone who could stay all night"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Sari do when she found a misfiled novel?",
+              "options": [
+                "She moved it and told Mrs. Dewi.",
+                "She hid it in her bag.",
+                "She taped the cover.",
+                "She left it so the boy could find it."
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 8,
+      "category_name": "Health and Habits",
+      "level": "Upper Intermediate",
+      "list": [
+        {
+          "id": 36,
+          "title": "A Week of Earlier Nights",
+          "summary": "Fajar treats sleep like an appointment and notices what changes.",
+          "minutes": 2,
+          "word_count": 311,
+          "passage": "Fajar had a theory that he worked best after midnight. The theory was mostly a habit of starting homework late and then feeling proud of the suffering. Before exams he decided to test the opposite for seven nights. He would be in bed by ten thirty, even if the last math problem was unfinished.\n\nThe first night was dull. He lay awake, annoyed at the unused hour. He left the phone in the kitchen so the bright screen could not bargain with him. In the morning he was not transformed. He was only slightly less foggy, which did not feel like a result worth protecting.\n\nOn the third day something smaller happened. During a lesson he noticed he had heard the example the first time. Usually he reconstructed it from a friend's notes. He did not announce this. He wrote it down as data: one clear explanation, no secondhand copy.\n\nThe hard part was social. His friends reviewed in a chat that became lively at eleven. Fajar told them he was running a week-long test and would read the summary in the morning. One friend teased him. Another sent the summary without being asked. The boundary held because it was specific and temporary, not because Fajar had become a different person.\n\nBy the seventh morning he had not become a dawn athlete. He had missed fewer small mistakes, and he had stopped drinking a sweet coffee just to stay upright. He still finished one problem late on purpose, to see whether midnight magic returned. The solution was ordinary. The magic had been the drama of being tired.\n\nHe kept the phone in the kitchen on school nights and loosened the rule on Saturdays. A habit, he decided, does not need to be a personality. It needs a time, a reason, and a way to notice if the reason is still true.",
+          "vocabulary": [
+            {
+              "word": "theory",
+              "indonesian": "teori"
+            },
+            {
+              "word": "foggy",
+              "indonesian": "samar / tidak jernih"
+            },
+            {
+              "word": "reconstructed",
+              "indonesian": "disusun ulang"
+            },
+            {
+              "word": "boundary",
+              "indonesian": "batas"
+            },
+            {
+              "word": "temporary",
+              "indonesian": "sementara"
+            },
+            {
+              "word": "upright",
+              "indonesian": "tetap terjaga"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What did Fajar decide to test?",
+              "options": [
+                "Going to bed by ten thirty for seven nights",
+                "Studying only after midnight",
+                "Giving up breakfast",
+                "Sleeping all Saturday"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What small change did he notice on the third day?",
+              "options": [
+                "He understood a lesson the first time.",
+                "He became a dawn athlete.",
+                "He finished every problem before dinner.",
+                "His friends stopped sending summaries."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did he decide a habit needs?",
+              "options": [
+                "A time, a reason, and a way to check the reason",
+                "A new personality",
+                "A chat that stays lively at eleven",
+                "Sweet coffee every morning"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "title": "The Sweet Drink Challenge",
+          "summary": "A class counts the sugar in ordinary bottles and changes one habit.",
+          "minutes": 2,
+          "word_count": 314,
+          "passage": "Ms. Lestari brought a bag of empty drink bottles to class and a kitchen scale. The lesson was not a speech about discipline. It was arithmetic. Each group had to read a label, measure a spoon of sugar, and see how many spoons matched one bottle.\n\nNadia's group had a bottled tea that looked almost serious because the color was brown. The label said the sugar in one bottle was more than she stirred into a whole pot of tea at home. They piled spoonfuls into a clear cup until the number matched. Nobody argued with the cup. It sat there, ordinary and too much.\n\nThe challenge was modest: for five school days, replace one sweet drink with water or with tea they sweetened themselves. Not all sugar. Not a new identity. One replacement, written down. Students who did not want to join could record their usual drinks without changing them. Ms. Lestari said a control group was not a moral failure.\n\nNadia joined. The first afternoon her mouth wanted the cold bottle from the cafeteria fridge. She drank water and felt briefly superior, then just thirsty in a normal way. On day three she made tea and added half a spoon, which tasted dull, then fine. The record showed she had not been perfect. She had bought one bottle on day four and written it down instead of pretending the day did not count.\n\nOn Friday the class compared notes. The interesting column was not perfection. It was surprise. Several students had not realized how often the drink was a pause, not a thirst. If the pause was the need, they could pause with water and still stand in the same spot with their friends. Nadia kept the clear-cup memory. A label can be ignored. A pile of sugar on a desk is harder to turn into a slogan and easier to remember.",
+          "vocabulary": [
+            {
+              "word": "arithmetic",
+              "indonesian": "hitung-hitungan"
+            },
+            {
+              "word": "label",
+              "indonesian": "label"
+            },
+            {
+              "word": "modest",
+              "indonesian": "sederhana"
+            },
+            {
+              "word": "replacement",
+              "indonesian": "pengganti"
+            },
+            {
+              "word": "control group",
+              "indonesian": "kelompok pembanding"
+            },
+            {
+              "word": "slogan",
+              "indonesian": "slogan"
+            }
+          ],
+          "questions": [
+            {
+              "question": "How did the class understand the sugar in a bottle?",
+              "options": [
+                "They matched the label's amount with real spoons of sugar.",
+                "They listened to a long speech.",
+                "They tasted every bottle blind.",
+                "They banned the cafeteria."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What was the challenge?",
+              "options": [
+                "Replace one sweet drink a day for five school days",
+                "Stop all sugar forever",
+                "Bring a scale to lunch",
+                "Skip breakfast"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did many students realize the drink was for?",
+              "options": [
+                "A pause with friends, not only thirst",
+                "A science grade",
+                "A way to avoid water",
+                "A control group"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "title": "An Afternoon at the Clinic",
+          "summary": "Omar waits with his mother and learns what the visit can and cannot do.",
+          "minutes": 2,
+          "word_count": 316,
+          "passage": "Omar's throat had hurt for three days. He had hoped it would fade, because a clinic visit meant missing football and sitting under bright lights. On the fourth morning he could barely swallow tea. His mother looked at him once and took the appointment book down from the shelf.\n\nThe waiting room was full. A fan pushed warm air in a slow circle. Omar watched the queue move by numbers, not by who sighed the loudest. A child cried, stopped, and cried again. Omar's mother had brought water and a mask. She spoke quietly. \"We tell them the truth about the days and the fever. We do not decorate it, and we do not hide it.\"\n\nWhen their number was called, the nurse asked questions Omar could answer himself. When did it start. How high was the fever. Had he taken anything. He was tempted to say the pain was worse than it was, so the visit would feel justified. He did not. The number on the thermometer was already doing that work.\n\nThe doctor looked at his throat, listened to his chest, and said it was likely a common infection that needed rest, fluids, and a medicine to lower the fever. She wrote the dose on the packet and made his mother repeat the hours. She also said what would mean they should return: trouble breathing, a fever that climbed after two days, or pain that stopped him drinking. Omar liked having a return rule. It turned worry into a checklist.\n\nHe missed football. He slept instead. By Saturday he could swallow without planning each sip. The clinic had not performed a miracle. It had sorted a frightening feeling into instructions. Omar kept the paper in his pencil case for a week, not because he needed the dose, but because the list of warning signs made the next ordinary sore throat less like a fog.",
+          "vocabulary": [
+            {
+              "word": "appointment",
+              "indonesian": "janji temu"
+            },
+            {
+              "word": "queue",
+              "indonesian": "antrean"
+            },
+            {
+              "word": "fever",
+              "indonesian": "demam"
+            },
+            {
+              "word": "dose",
+              "indonesian": "dosis"
+            },
+            {
+              "word": "fluids",
+              "indonesian": "cairan"
+            },
+            {
+              "word": "checklist",
+              "indonesian": "daftar periksa"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did they go to the clinic on the fourth day?",
+              "options": [
+                "Omar could barely swallow tea.",
+                "He wanted to miss football.",
+                "The fan at home was broken.",
+                "His mother had a shift there."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did his mother tell him to do with the story of his illness?",
+              "options": [
+                "Tell the truth without decorating or hiding it",
+                "Make the pain sound worse",
+                "Let her answer every question",
+                "Hide the fever"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "When did the doctor say they should return?",
+              "options": [
+                "If breathing was hard, the fever climbed, or he could not drink",
+                "If he missed another match",
+                "Only if the packet was empty",
+                "The next morning no matter what"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "title": "Stairs Instead of the Lift",
+          "summary": "A building's lift breaks, and a small stair habit outlives the repair.",
+          "minutes": 2,
+          "word_count": 298,
+          "passage": "The lift in Amina's tuition building failed on a Monday and stayed failed for three weeks. The stairs were concrete, a little dark, and honest about effort. Students complained on the first day, then discovered that four floors were not a mountain. They were a minute of breathing harder.\n\nAmina started counting landings instead of floors, because landings arrived sooner and gave her mind a smaller job. She also noticed who held the rail the whole way and who swung around it as if the building were a game. She held the rail. A twisted ankle would cost more time than the lift ever saved.\n\nIn the second week the stairs became a place where short conversations fit. She learned that a classmate walked because the crowded lift, even when it worked, made him uneasy. Another classmate was training for a fun run and treated each landing as a free session. The reasons were different. The direction was the same.\n\nWhen the lift was repaired, a notice announced it with pride. Most students returned to it at once. Amina tried it and felt the old stillness, the small box, the wait for someone running down the corridor shouting to hold the door. She got out at the next floor and took the stairs for the rest. Not every day after that. On days when she was carrying a heavy project board, she used the lift without guilt. A habit that cannot bend will break.\n\nShe kept one rule. If she was empty-handed and not late, she walked. After a month she was less winded, and she arrived at class having already done something deliberate. The lift was a tool again, not a default. The building had taken it away by accident. She took back the choice on purpose.",
+          "vocabulary": [
+            {
+              "word": "landings",
+              "indonesian": "bordes"
+            },
+            {
+              "word": "uneasy",
+              "indonesian": "tidak nyaman"
+            },
+            {
+              "word": "default",
+              "indonesian": "pilihan otomatis"
+            },
+            {
+              "word": "winded",
+              "indonesian": "terengah-engah"
+            },
+            {
+              "word": "deliberate",
+              "indonesian": "sengaja"
+            },
+            {
+              "word": "guilt",
+              "indonesian": "rasa bersalah"
+            }
+          ],
+          "questions": [
+            {
+              "question": "How did Amina make the stairs feel easier?",
+              "options": [
+                "She counted landings instead of whole floors.",
+                "She ran past every student.",
+                "She avoided the rail.",
+                "She only walked on Mondays."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "When did she still use the lift?",
+              "options": [
+                "When she carried a heavy project board",
+                "Whenever the notice looked proud",
+                "Only if a friend was uneasy",
+                "Never, even with a heavy board"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What rule did she keep?",
+              "options": [
+                "Walk if her hands were free and she was not late.",
+                "Never enter the lift again.",
+                "Train for a fun run every landing.",
+                "Hold the door for every shout."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "title": "What the Dentist Meant",
+          "summary": "Ilham goes back to the dentist and learns the difference between pain and a plan.",
+          "minutes": 2,
+          "word_count": 313,
+          "passage": "Ilham had avoided the dentist for a year because one visit as a child had been loud and hurried. A molar now answered cold water with a sharp note. He chewed on the other side and told himself that avoidance was a kind of healing. It was only a rearrangement of the pain.\n\nHis sister made the appointment and came with him, not as a guard, more as company. The waiting room smelled like clove. The dentist, Dr. Maya, asked what he was afraid of before she asked him to open his mouth. The question surprised him into an honest answer: the sound, and not knowing what would happen next.\n\n\"Then I will narrate,\" she said. \"If you raise your left hand, I stop.\"\n\nThe examination was uncomfortable and not the disaster he had rehearsed. The molar had a cavity. It did not need to come out. It needed a filling, and the gums needed cleaner habits at the back, where his brush had been shy. Dr. Maya showed him in a mirror. Seeing the problem made it less like a punishment and more like a fact with a procedure attached.\n\nHe raised his hand once, when the sound spiked, and she stopped. That single stop did more for his trust than any speech about bravery. They finished the filling. She gave him a soft brush and a simple pattern: two minutes, back teeth included, evening especially. She did not ask him to become a person who loves clinics.\n\nOn the way home his mouth was numb and his fear had a crack in it. He still did not like the sound. He liked the hand signal. A plan you can pause is a plan you can enter. That night he timed two minutes with a kitchen clock and reached the molar on purpose, gently, as if meeting it again under better rules.",
+          "vocabulary": [
+            {
+              "word": "molar",
+              "indonesian": "gigi geraham"
+            },
+            {
+              "word": "avoidance",
+              "indonesian": "penghindaran"
+            },
+            {
+              "word": "cavity",
+              "indonesian": "gigi berlubang"
+            },
+            {
+              "word": "filling",
+              "indonesian": "tambalan"
+            },
+            {
+              "word": "narrate",
+              "indonesian": "menceritakan yang sedang dilakukan"
+            },
+            {
+              "word": "gums",
+              "indonesian": "gusi"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why had Ilham avoided the dentist?",
+              "options": [
+                "A childhood visit had been loud and hurried.",
+                "His sister forbade the clinic.",
+                "He had no molars.",
+                "The waiting room had no clock."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What agreement let him feel some control?",
+              "options": [
+                "He could raise his left hand and she would stop.",
+                "He would not look in the mirror.",
+                "The filling would be done without a story.",
+                "He could leave before the examination."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did the molar need?",
+              "options": [
+                "A filling, not removal",
+                "Removal at once",
+                "Only a new toothbrush and no treatment",
+                "Cold water every hour"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 9,
+      "category_name": "Science",
+      "level": "Advanced",
+      "list": [
+        {
+          "id": 41,
+          "title": "Why the Sky Looks Blue",
+          "summary": "A class tests a simple account of color, scattering, and sunset.",
+          "minutes": 2,
+          "word_count": 317,
+          "passage": "Mr. Rahman began the lesson by refusing the shortest answer. \"Because it is blue\" describes the sky and explains nothing. He gave the class a prism, a flashlight, and a glass tank of water with a few drops of milk. The milk made the water slightly cloudy, which gave the light something to strike.\n\nWhite light from the flashlight is a mixture of colors. When it entered the cloudy water, the students saw a bluish haze from the side and a warmer beam continuing forward. Mr. Rahman named the effect scattering. Tiny particles send some light off its straight path. Blue light is scattered more readily than red light. In the atmosphere, air molecules do a similar job all day, so the sky, which is the light arriving from every side direction, looks blue.\n\nA student objected that the air does not look like milk. Mr. Rahman agreed. The comparison was a model, not a copy. Molecules are far smaller than milk droplets, and the real process has a precise name, Rayleigh scattering. The model was only there to make the direction of the effect visible.\n\nSunset required the next step. When the sun is low, its light travels through more air before it reaches an eye. Much of the blue has already been scattered away along that long path. The light that remains is richer in red and orange, which is why the horizon can burn while the overhead sky is still pale. Pollution and dust can thicken the effect, so a dramatic sunset is not automatically a clean one.\n\nThe class wrote a sentence they were willing to defend. The sky is not a painted surface. It is sunlight being sorted by the air. Farah added a caution in the margin: a model that shows the idea is useful, and a model that pretends to be the whole sky is a new kind of mistake.",
+          "vocabulary": [
+            {
+              "word": "scattering",
+              "indonesian": "hamburan"
+            },
+            {
+              "word": "molecules",
+              "indonesian": "molekul"
+            },
+            {
+              "word": "prism",
+              "indonesian": "prisma"
+            },
+            {
+              "word": "horizon",
+              "indonesian": "cakrawala"
+            },
+            {
+              "word": "model",
+              "indonesian": "model"
+            },
+            {
+              "word": "readily",
+              "indonesian": "dengan lebih mudah"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did the side of the tank look bluish?",
+              "options": [
+                "Blue light scattered off the cloudy water more readily.",
+                "The prism painted the tank.",
+                "Milk is always blue.",
+                "The flashlight contained only blue."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why do sunsets look redder?",
+              "options": [
+                "The low sun's light travels through more air, and much of the blue is scattered away.",
+                "The horizon produces red light.",
+                "Molecules stop working in the evening.",
+                "Pollution removes every color except green."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Mr. Rahman say the milky water was?",
+              "options": [
+                "A model, not a copy of the atmosphere",
+                "A perfect copy of air",
+                "A prism",
+                "Proof that dramatic sunsets are always clean"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "title": "Mold, Moisture, and Bread",
+          "summary": "Two slices of bread show what mold needs, and what a fair test looks like.",
+          "minutes": 2,
+          "word_count": 325,
+          "passage": "The biology class did not set out to grow a horror. They set out to see which conditions a common mold prefers. Each pair of students labeled two slices of the same loaf. One slice went into a dry, open dish on a sunny shelf. The other went into a sealed bag with a few drops of clean water, kept in a warm cupboard. Everything else that they could control stayed the same: the bread, the day, the handling.\n\nSinta wanted to add a third slice in the fridge, then realized that would change two things at once, temperature and moisture, and they would not know which one mattered. Ms. Putri called that a confound and told her to save the fridge for a later question. A good test tries to change one variable.\n\nFor two days both slices looked almost ordinary. On the fourth day the bagged slice showed a pale spot that darkened into green. The sunny slice had gone hard and stale, which was unattractive and also less inviting to the mold. The class did not open the bag. Spores are tiny and travel easily, and curiosity is not a reason to breathe them in. They observed through the plastic and recorded the date, the color, and the smell only if it escaped on its own. It did not.\n\nThe conclusion was narrow, which made it strong. On this bread, added moisture and warmth were followed by visible mold, while drying in the light was followed by staleness without that growth. The students did not claim that every food in the world obeys a cupboard. They claimed what their pair of slices could support.\n\nSinta wrote the word confound at the top of her notes. It applied beyond bread. If you change two things and celebrate one result, you may be applauding the wrong cause. The sealed bag stayed closed until disposal. The lesson could travel. The spores did not need to.",
+          "vocabulary": [
+            {
+              "word": "moisture",
+              "indonesian": "kelembapan"
+            },
+            {
+              "word": "confound",
+              "indonesian": "faktor pengganggu"
+            },
+            {
+              "word": "variable",
+              "indonesian": "variabel"
+            },
+            {
+              "word": "spores",
+              "indonesian": "spora"
+            },
+            {
+              "word": "stale",
+              "indonesian": "basi"
+            },
+            {
+              "word": "disposal",
+              "indonesian": "pembuangan"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did they not put a third slice in the fridge in the same test?",
+              "options": [
+                "It would change temperature and moisture at the same time.",
+                "The fridge was full of spores.",
+                "Ms. Putri disliked bread.",
+                "The sunny slice had already molded."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Which slice grew visible mold?",
+              "options": [
+                "The warm, damp slice in the sealed bag",
+                "The dry slice in the sun",
+                "Both slices on day one",
+                "Neither slice"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why did the class leave the bag closed?",
+              "options": [
+                "Spores travel easily and should not be breathed in.",
+                "They wanted the bread to become stale.",
+                "The label had fallen off.",
+                "Disposal was illegal."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "title": "A Circuit that Finally Closed",
+          "summary": "Gilang finds the one gap that keeps a small bulb dark.",
+          "minutes": 2,
+          "word_count": 302,
+          "passage": "The task was deliberately small: a battery, a bulb, a switch, and two wires. Gilang's bulb stayed dark. Around him other bulbs glowed, which made the darkness feel personal. He pressed the switch harder, as if force could replace a path.\n\nHis partner, Rara, asked him to stop adding parts. \"We do not have a weak battery until we have a complete loop,\" she said. They drew the circuit as a circle. Current needs a closed path from one end of the battery, through the bulb, and back to the other end. Any gap is enough to stop it. The switch is a gap you can choose.\n\nThey checked the obvious contacts. One wire was pinched under the battery only by hope. The metal was touching the plastic sleeve, not the end. Gilang moved it. Nothing happened, because the switch was open, which was correct and easy to misread as another failure. He closed the switch. The bulb flickered and held.\n\nThe glow was modest. The idea was not. A circuit is not a pile of objects near each other. It is a relationship: conductors touching in an unbroken loop, with the bulb's thin filament as part of that loop. If they bypassed the bulb with a bare wire from end to end, the battery would still be in a loop, but the easy path would avoid the filament. That short path is a short circuit, and it can heat a wire fast. They did not build it. Naming it was enough.\n\nGilang wrote a troubleshooting order in his notebook. Check the loop. Check that metal touches metal. Close the switch last, so you know what your test means. He liked that the bulb had not needed a speech. It lit when the path existed, and it refused, quite calmly, to pretend.",
+          "vocabulary": [
+            {
+              "word": "circuit",
+              "indonesian": "rangkaian"
+            },
+            {
+              "word": "filament",
+              "indonesian": "filamen"
+            },
+            {
+              "word": "conductors",
+              "indonesian": "konduktor"
+            },
+            {
+              "word": "switch",
+              "indonesian": "sakelar"
+            },
+            {
+              "word": "short circuit",
+              "indonesian": "hubungan singkat"
+            },
+            {
+              "word": "troubleshooting",
+              "indonesian": "mencari sumber masalah"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why was the bulb dark at first?",
+              "options": [
+                "A wire touched plastic instead of the battery end, and the switch was open.",
+                "The bulb had no filament.",
+                "Rara removed the battery.",
+                "The classroom lights were too strong."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What is a short circuit in this passage?",
+              "options": [
+                "An easy path that avoids the bulb and can heat a wire",
+                "A switch left open on purpose",
+                "A bulb that glows modestly",
+                "A drawing of a circle"
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What order did Gilang write down?",
+              "options": [
+                "Check the loop, check metal on metal, then close the switch.",
+                "Add parts until something glows.",
+                "Build a short circuit first.",
+                "Press the switch harder, then draw."
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "title": "How Ants Choose a Path",
+          "summary": "A sugar dish and two routes show how a colony can favor the shorter road.",
+          "minutes": 2,
+          "word_count": 321,
+          "passage": "Behind the science room, a line of ants had found a dropped biscuit. Dr. Sari, who was not a doctor of ants but accepted the name from her students, asked the class not to destroy the line. \"You are looking at a decision,\" she said. \"It only looks like a parade.\"\n\nThey offered a cleaner test. A dish of sugar water stood on one side of a tray. Two paper bridges led toward it. One bridge was short and direct. The other bent in a long curve. Both were new, so neither path had an advantage yet. The students counted crossings for ten minutes, then for another ten.\n\nAt the start the choices looked almost fair. Ants explored, paused, and sometimes turned around. Then the short bridge grew busier. The long one never emptied, but it became the road less taken. Dr. Sari explained the likely mechanism without pretending the tray was the whole species. Many ants lay a chemical trail as they walk. A shorter path can be walked more often in the same time, so the trail on it becomes stronger sooner. Later ants are more likely to follow the stronger trail. No single ant needs a map of both bridges.\n\nA student asked whether the ants were intelligent. Dr. Sari said the interesting part was that a smart-looking result can come from simple local rules. The colony's pattern was real. The individual's picture of the whole tray might be very small. Those two facts do not cancel each other.\n\nThey removed the sugar at the end and brushed the bridges so the next class would not inherit a ready-made trail. Farah wrote that efficiency here was not a moral. It was a result of time, chemistry, and repetition. The biscuit outside was gone. The line had already dissolved into the grass, each ant busy with a piece of the problem and none of them holding the entire answer.",
+          "vocabulary": [
+            {
+              "word": "colony",
+              "indonesian": "koloni"
+            },
+            {
+              "word": "mechanism",
+              "indonesian": "mekanisme"
+            },
+            {
+              "word": "trail",
+              "indonesian": "jejak"
+            },
+            {
+              "word": "local",
+              "indonesian": "setempat"
+            },
+            {
+              "word": "efficiency",
+              "indonesian": "efisiensi"
+            },
+            {
+              "word": "dissolved",
+              "indonesian": "buyar"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did the shorter bridge become busier?",
+              "options": [
+                "It could be walked more often, so its chemical trail grew stronger sooner.",
+                "Dr. Sari blocked the long bridge.",
+                "Ants can read maps of the whole tray.",
+                "The long bridge had no paper."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did Dr. Sari say about a smart-looking result?",
+              "options": [
+                "It can come from simple local rules.",
+                "It proves each ant knows both paths.",
+                "It is only a moral about hard work.",
+                "It cancels the colony's pattern."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why did they brush the bridges at the end?",
+              "options": [
+                "So the next class would not inherit a ready-made trail",
+                "To feed the colony",
+                "To make the long path shorter",
+                "To count the biscuit crumbs"
+              ],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "title": "Measuring the Rain",
+          "summary": "A straight-sided jar makes a rain gauge that tells the truth more honestly.",
+          "minutes": 2,
+          "word_count": 323,
+          "passage": "The monsoon week gave the class more water than the textbook had planned for. Mr. Idris set a challenge: measure one night of rain in a way that another class could repeat. Fancy equipment was not the goal. A number that meant the same thing in two yards was the goal.\n\nThey rejected the first idea, a tapered drinking glass, because the same depth of water would mean different volumes at the wide top and the narrow base. A scale painted on that glass would lie in a smooth, confident way. They chose a jar with straight sides. Depth in a straight jar corresponds more fairly to how much rain fell on the opening.\n\nLocation mattered as much as shape. Under a tree, leaves would hold back water or dump a delayed stream. Next to a wall, wind could push rain away or splash extra drops in. They set the jar in an open part of the courtyard, on a flat brick, with the rim level. A tilted rim collects a different area than a level one. Omar checked the level with a ruler and a marble. If the marble rested instead of rolling, the brick was good enough.\n\nIn the morning the jar held a shallow clear layer. They measured the depth with a ruler held straight, not stabbed into the bottom at an angle, and recorded thirteen millimeters. Another group's jar, placed under the eaves by mistake, held almost nothing. The rain had not failed. The placement had. Mr. Idris treated both numbers as useful. One estimated the night's rain. The other estimated a bad method.\n\nThe class wrote a procedure other people could follow: straight sides, open sky, level rim, depth in millimeters, and the time the jar was set out. Farah added a sentence about humility. A measurement is not the rain itself. It is a carefully made sample, and it stays honest only while the method stays visible.",
+          "vocabulary": [
+            {
+              "word": "tapered",
+              "indonesian": "mengkerucut"
+            },
+            {
+              "word": "corresponds",
+              "indonesian": "sesuai dengan"
+            },
+            {
+              "word": "rim",
+              "indonesian": "bibir wadah"
+            },
+            {
+              "word": "millimeters",
+              "indonesian": "milimeter"
+            },
+            {
+              "word": "eaves",
+              "indonesian": "tepian atap"
+            },
+            {
+              "word": "procedure",
+              "indonesian": "prosedur"
+            }
+          ],
+          "questions": [
+            {
+              "question": "Why did they reject the tapered glass?",
+              "options": [
+                "The same depth would mean different amounts at different widths.",
+                "It could not hold water.",
+                "The marble rolled out of it.",
+                "Mr. Idris had no ruler."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "Why was the jar under the eaves a useful result?",
+              "options": [
+                "It showed a bad placement, not a night without rain.",
+                "It collected more rain than the courtyard.",
+                "It proved trees measure rain better.",
+                "It had straight sides."
+              ],
+              "answer": 0
+            },
+            {
+              "question": "What did they record in the open jar?",
+              "options": [
+                "Thirteen millimeters",
+                "Thirteen centimeters under a tree",
+                "Nothing, because the rim was tilted",
+                "The volume of the tapered glass"
+              ],
+              "answer": 0
+            }
+          ]
+        }
+      ]
     }
   ]
 }
